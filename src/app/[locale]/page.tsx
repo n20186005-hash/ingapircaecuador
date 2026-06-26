@@ -98,6 +98,15 @@ function Hero() {
 
 function About() {
   const { t } = useLang();
+  
+  const renderWithBoldPrefix = (text: string) => {
+    const match = text.match(/^([^：:]+[：:])(.*)/);
+    if (match) {
+      return <><strong style={{ color: "var(--color-deep)" }}>{match[1]}</strong>{match[2]}</>;
+    }
+    return text;
+  };
+
   return (
     <section id="about" className="section">
       <ScrollReveal>
@@ -108,10 +117,85 @@ function About() {
       <ScrollReveal>
         <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p1}</p>
         <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p2}</p>
-        <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p3}</p>
       </ScrollReveal>
       <ScrollReveal>
-        <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem", marginTop: "2rem" }}>
+        <div style={{ marginTop: "3rem", padding: "2rem", background: "var(--color-cream)", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)" }}>
+          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem" }}>
+            {t.about.myth.title}
+          </h3>
+          <p style={{ fontSize: "1rem", lineHeight: "1.7", color: "var(--color-earth)", fontStyle: "italic", marginBottom: "1.5rem" }}>
+            {t.about.myth.intro}
+          </p>
+          <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", whiteSpace: "pre-line", marginBottom: "1.5rem" }}>
+            {t.about.myth.story}
+          </p>
+          <div style={{ padding: "1.5rem", background: "#fff", borderRadius: "6px", boxShadow: "0 2px 8px rgba(0,0,0,0.05)" }}>
+            <strong style={{ color: "var(--color-deep)", display: "block", marginBottom: "0.5rem" }}>{t.about.myth.trivia.title}</strong>
+            <span style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", lineHeight: "1.6" }}>{t.about.myth.trivia.content}</span>
+          </div>
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
+        <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.6rem", fontWeight: 600, color: "var(--color-deep)", marginTop: "4rem", marginBottom: "1.5rem" }}>
+          {t.about.astronomy.title}
+        </h3>
+        <p style={{ fontSize: "1rem", lineHeight: "1.7", color: "var(--color-earth)", marginBottom: "2rem" }}>
+          {t.about.astronomy.intro}
+        </p>
+
+        <div style={{ display: "grid", gap: "2rem", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", marginBottom: "2rem" }}>
+          <div style={{ padding: "2rem", background: "#fff", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)" }}>
+            <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", color: "var(--color-deep)", marginBottom: "1rem" }}>{t.about.astronomy.temple.title}</h4>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", marginBottom: "1rem" }}>{renderWithBoldPrefix(t.about.astronomy.temple.p1)}</p>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)" }}>{renderWithBoldPrefix(t.about.astronomy.temple.p2)}</p>
+          </div>
+          <div style={{ padding: "2rem", background: "#fff", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)" }}>
+            <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", color: "var(--color-deep)", marginBottom: "1rem" }}>{t.about.astronomy.pilaloma.title}</h4>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", marginBottom: "1rem" }}>{renderWithBoldPrefix(t.about.astronomy.pilaloma.p1)}</p>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)" }}>{renderWithBoldPrefix(t.about.astronomy.pilaloma.p2)}</p>
+          </div>
+        </div>
+        
+        <div style={{ padding: "1rem 1.5rem", background: "var(--color-teal)", color: "#fff", borderRadius: "6px", fontSize: "0.95rem", lineHeight: "1.6" }}>
+          {t.about.astronomy.trivia}
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
+        <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginTop: "4rem", marginBottom: "2rem" }}>
+          {t.about.timeline.title}
+        </h3>
+        <div className="timeline" style={{ position: "relative", borderLeft: "2px solid rgba(0,0,0,0.1)", paddingLeft: "2rem", marginLeft: "1rem" }}>
+          {t.about.timeline.events.map((evt: {period: string, description: string}, i: number) => (
+            <div key={i} style={{ position: "relative", marginBottom: "2rem" }}>
+              <div style={{ position: "absolute", left: "-2.45rem", top: "0.2rem", width: "14px", height: "14px", borderRadius: "50%", background: "var(--color-gold)", border: "3px solid #fff" }} />
+              <strong style={{ display: "block", color: "var(--color-teal)", marginBottom: "0.25rem", fontSize: "0.9rem", textTransform: "uppercase", letterSpacing: "1px" }}>{evt.period}</strong>
+              <p style={{ fontSize: "0.95rem", color: "var(--color-earth-soft)", lineHeight: "1.6" }}>{evt.description}</p>
+            </div>
+          ))}
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
+        <div style={{ marginTop: "3rem", padding: "2rem", background: "#f8f9fa", borderRadius: "8px", borderLeft: "4px solid var(--color-teal)" }}>
+          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "0.5rem" }}>
+            {t.about.caraDelInca.title}
+          </h3>
+          <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)" }}>
+            {t.about.caraDelInca.content}
+          </p>
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
+        <div style={{ marginTop: "2rem", padding: "2rem", background: "rgba(0,0,0,0.02)", borderRadius: "8px" }}>
+          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "0.5rem" }}>
+            {t.about.conservation.title}
+          </h3>
+          <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-earth-soft)" }}>
+            {t.about.conservation.content}
+          </p>
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
+        <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem", marginTop: "4rem" }}>
           {t.about.highlights.title}
         </h3>
         <div className="highlights-grid">
@@ -162,6 +246,14 @@ function Visiting() {
                 <div className="info-card-note">{c.note}</div>
               </div>
             ))}
+          </div>
+        </ScrollReveal>
+        <ScrollReveal>
+          <div className="bring-section" style={{ marginTop: "3rem" }}>
+            <div className="bring-title">{t.visiting.animals.title}</div>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-earth-soft)", background: "rgba(255,255,255,0.5)", padding: "1.5rem", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)" }}>
+              {t.visiting.animals.content}
+            </p>
           </div>
         </ScrollReveal>
         <ScrollReveal>
@@ -515,6 +607,9 @@ function Footer() {
           Cookie Settings
         </Link>
       </div>
+      <p className="footer-text" style={{ marginTop: "2rem", fontSize: "0.9rem", fontWeight: 600, color: "var(--color-gold)" }}>
+        {t.footer.callToAction}
+      </p>
       <p className="footer-text" style={{ marginTop: "1rem" }}>{t.footer.text}</p>
       <p className="footer-made">{t.footer.made}</p>
     </footer>
