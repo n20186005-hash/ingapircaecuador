@@ -15,6 +15,37 @@
   --font-body: 'DM Sans', system-ui, sans-serif;
 }
 
+[data-theme='dark'] {
+  --color-deep: #f5f2ea;
+  --color-mountain: #4a90b8;
+  --color-sky: #6bb0d8;
+  --color-azure: #5c9df5;
+  --color-gold: #d8be96;
+  --color-gold-light: #f5e4cc;
+  --color-cream: #121212;
+  --color-earth: #b8ac9e;
+  --color-earth-soft: #c8c0b5;
+  --color-stone: #d4cfc5;
+}
+
+[data-theme='dark'] .info-card,
+[data-theme='dark'] .transport-card,
+[data-theme='dark'] .review-card,
+[data-theme='dark'] .faq-item {
+  background: rgba(255,255,255,0.05) !important;
+  box-shadow: none !important;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+[data-theme='dark'] .hero-overlay {
+  background: linear-gradient(180deg, rgba(18,18,18,0.7) 0%, #121212 100%);
+}
+
+[data-theme='dark'] .highlight-icon {
+  background: var(--color-gold);
+  opacity: 0.8;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -928,42 +959,26 @@ body {
 }
 
 .faq-item {
-  background: #fff;
-  border-radius: 2px;
-  margin-bottom: 1rem;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
-  overflow: hidden;
-  transition: box-shadow 0.3s ease;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding: 1.5rem 0;
 }
 
-.faq-item:hover {
-  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-}
-
-.faq-item.expanded {
-  box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+[data-theme='dark'] .faq-item {
+  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .faq-question {
   width: 100%;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  padding: 1.5rem 2rem;
+  align-items: center;
   background: none;
   border: none;
+  padding: 0;
   cursor: pointer;
-  font-family: var(--font-body);
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--color-deep);
   text-align: left;
-  transition: color 0.3s ease;
-}
-
-.faq-question:hover {
-  color: var(--color-mountain);
+  font-family: var(--font-body);
+  font-size: 1.05rem;
 }
 
 .faq-icon {
@@ -976,11 +991,14 @@ body {
 }
 
 .faq-answer {
-  padding: 0 2rem 1.5rem;
+  margin-top: 1rem;
   font-size: 0.95rem;
-  line-height: 1.8;
+  color: var(--color-stone);
+  line-height: 1.6;
+}
+
+[data-theme='dark'] .faq-answer {
   color: var(--color-earth-soft);
-  animation: fadeDown 0.3s ease;
 }
 
 .faq-answer p {

@@ -3,6 +3,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import Link from "next/link";
 import { LangProvider, useLang } from "@/components/LangProvider";
+import { useTheme } from "next-themes";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
 const MAPS_URL = "https://maps.app.goo.gl/ZDxFcLiPuwaMdr2q6";
@@ -36,6 +37,53 @@ function ScrollReveal({ children, className = "" }: { children: React.ReactNode;
   return <div ref={ref} className={`reveal ${className}`}>{children}</div>;
 }
 
+function ThemeToggle() {
+  const { theme, setTheme } = useTheme();
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) return <div style={{ width: "24px", height: "24px" }} />;
+
+  return (
+    <button
+      onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+      className="theme-toggle-btn"
+      aria-label="Toggle theme"
+      style={{
+        background: "none",
+        border: "none",
+        color: "#fff",
+        cursor: "pointer",
+        padding: "0.25rem",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+      }}
+    >
+      {theme === "dark" ? (
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="12" cy="12" r="5" />
+          <line x1="12" y1="1" x2="12" y2="3" />
+          <line x1="12" y1="21" x2="12" y2="23" />
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+          <line x1="1" y1="12" x2="3" y2="12" />
+          <line x1="21" y1="12" x2="23" y2="12" />
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+        </svg>
+      ) : (
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+        </svg>
+      )}
+    </button>
+  );
+}
+
 function Nav() {
   const { t } = useLang();
   const [scrolled, setScrolled] = useState(false);
@@ -57,10 +105,12 @@ function Nav() {
           <a href="#visiting">{t.nav.visiting}</a>
           <a href="#transportation">{t.nav.transportation}</a>
           <a href="#tips">{t.nav.tips}</a>
+          <a href="#gallery">{t.gallery.title}</a>
           <a href="#reviews">{t.nav.reviews}</a>
           <a href="#faq">{t.nav.faq}</a>
           <a href="#location">{t.nav.location}</a>
         </div>
+        <ThemeToggle />
         <LanguageSwitcher />
       </div>
     </nav>
@@ -115,11 +165,26 @@ function About() {
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
+        <div style={{ marginBottom: "3rem", padding: "1.5rem", background: "#f8f9fa", borderRadius: "8px", border: "1px solid rgba(0,0,0,0.05)" }}>
+          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem" }}>
+            {t.about.highlights.title}
+          </h3>
+          <div className="highlights-grid">
+            {t.about.highlights.items.map((item: string, i: number) => (
+              <div className="highlight-item" key={i}>
+                <div className="highlight-icon" />
+                <span className="highlight-text">{item}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </ScrollReveal>
+      <ScrollReveal>
         <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p1}</p>
         <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p2}</p>
       </ScrollReveal>
       <ScrollReveal>
-        <div style={{ marginTop: "3rem", padding: "2rem", background: "var(--color-cream)", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)" }}>
+        <div style={{ marginTop: "3rem", padding: "2rem", background: "var(--color-cream)", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)", borderRight: "1px solid rgba(0,0,0,0.05)", borderTop: "1px solid rgba(0,0,0,0.05)", borderBottom: "1px solid rgba(0,0,0,0.05)" }}>
           <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem" }}>
             {t.about.myth.title}
           </h3>
@@ -129,7 +194,7 @@ function About() {
           <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", whiteSpace: "pre-line", marginBottom: "1.5rem" }}>
             {t.about.myth.story}
           </p>
-          <div style={{ padding: "1.5rem", background: "#fff", borderRadius: "6px", boxShadow: "0 2px 8px rgba(0,0,0,0.05)" }}>
+          <div style={{ padding: "1.5rem", background: "rgba(255,255,255,0.05)", borderRadius: "6px", boxShadow: "0 2px 8px rgba(0,0,0,0.05)", border: "1px solid rgba(0,0,0,0.05)" }}>
             <strong style={{ color: "var(--color-deep)", display: "block", marginBottom: "0.5rem" }}>{t.about.myth.trivia.title}</strong>
             <span style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", lineHeight: "1.6" }}>{t.about.myth.trivia.content}</span>
           </div>
@@ -144,21 +209,21 @@ function About() {
         </p>
 
         <div style={{ display: "grid", gap: "2rem", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", marginBottom: "2rem" }}>
-          <div style={{ padding: "2rem", background: "#fff", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)" }}>
+          <div style={{ padding: "2rem", background: "rgba(255,255,255,0.05)", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)", border: "1px solid rgba(0,0,0,0.05)" }}>
             <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", color: "var(--color-deep)", marginBottom: "1rem" }}>{t.about.astronomy.temple.title}</h4>
             <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", marginBottom: "1rem" }}>{renderWithBoldPrefix(t.about.astronomy.temple.p1)}</p>
             <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)" }}>{renderWithBoldPrefix(t.about.astronomy.temple.p2)}</p>
           </div>
-          <div style={{ padding: "2rem", background: "#fff", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)" }}>
+          <div style={{ padding: "2rem", background: "rgba(255,255,255,0.05)", borderRadius: "8px", boxShadow: "0 4px 16px rgba(0,0,0,0.06)", border: "1px solid rgba(0,0,0,0.05)" }}>
             <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", color: "var(--color-deep)", marginBottom: "1rem" }}>{t.about.astronomy.pilaloma.title}</h4>
             <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)", marginBottom: "1rem" }}>{renderWithBoldPrefix(t.about.astronomy.pilaloma.p1)}</p>
             <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-stone)" }}>{renderWithBoldPrefix(t.about.astronomy.pilaloma.p2)}</p>
           </div>
         </div>
         
-        <div style={{ padding: "1rem 1.5rem", background: "var(--color-teal)", color: "#fff", borderRadius: "6px", fontSize: "0.95rem", lineHeight: "1.6" }}>
-          {t.about.astronomy.trivia}
-        </div>
+        <div style={{ padding: "1rem 1.5rem", background: "var(--color-teal)", color: "#fff", borderRadius: "6px", fontSize: "0.95rem", lineHeight: "1.6", marginTop: "2rem" }}>
+           <blockquote>{t.about.astronomy.trivia}</blockquote>
+         </div>
       </ScrollReveal>
       <ScrollReveal>
         <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginTop: "4rem", marginBottom: "2rem" }}>
@@ -195,20 +260,7 @@ function About() {
         </div>
       </ScrollReveal>
       <ScrollReveal>
-        <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem", marginTop: "4rem" }}>
-          {t.about.highlights.title}
-        </h3>
-        <div className="highlights-grid">
-          {t.about.highlights.items.map((item: string, i: number) => (
-            <div className="highlight-item" key={i}>
-              <div className="highlight-icon" />
-              <span className="highlight-text">{item}</span>
-            </div>
-          ))}
-        </div>
-      </ScrollReveal>
-      <ScrollReveal>
-        <div style={{ marginTop: "2rem", padding: "1.5rem", background: "#fff", borderRadius: "2px", boxShadow: "0 2px 12px rgba(0,0,0,0.04)" }}>
+        <div style={{ marginTop: "2rem", padding: "1.5rem", background: "rgba(255,255,255,0.05)", borderRadius: "2px", boxShadow: "0 2px 12px rgba(0,0,0,0.04)", border: "1px solid rgba(0,0,0,0.05)" }}>
           <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.1rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "0.5rem", whiteSpace: "pre-line" }}>
             {t.about.management.title}
           </h4>
@@ -396,7 +448,7 @@ function Gallery() {
         <div className="gallery-grid">
           {GALLERY_IMAGES.map((src, i) => (
             <div className="gallery-item" key={i} onClick={() => setLightboxIndex(i)}>
-              <img src={src} alt={`Warairarepano Cable Car ${i + 1}`} loading="lazy" />
+              <img src={src} alt={`Ingapirca Archaeological Complex ${i + 1}`} loading="lazy" />
             </div>
           ))}
         </div>
@@ -415,7 +467,7 @@ function Gallery() {
         <div className="lightbox" onClick={() => setLightboxIndex(null)}>
           <button className="lightbox-close" onClick={() => setLightboxIndex(null)}>×</button>
           <button className="lightbox-prev" onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex - 1 + GALLERY_IMAGES.length) % GALLERY_IMAGES.length); }}>‹</button>
-          <img src={GALLERY_IMAGES[lightboxIndex]} alt={`Warairarepano Cable Car ${lightboxIndex + 1}`} className="lightbox-img" />
+          <img src={GALLERY_IMAGES[lightboxIndex]} alt={`Ingapirca Archaeological Complex ${lightboxIndex + 1}`} className="lightbox-img" />
           <button className="lightbox-next" onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex + 1) % GALLERY_IMAGES.length); }}>›</button>
         </div>
       )}
@@ -480,7 +532,7 @@ function FAQ() {
   const faqItems = t.faq.items;
 
   return (
-    <section id="faq" style={{ background: "linear-gradient(180deg, var(--color-cream) 0%, #e8e2d6 100%)" }}>
+    <section id="faq" className="section">
       <div className="section">
         <ScrollReveal>
           <p className="section-label">07</p>
@@ -496,7 +548,7 @@ function FAQ() {
                   className="faq-question"
                   onClick={() => setExpandedIndex(expandedIndex === i ? null : i)}
                 >
-                  <span>{item.question}</span>
+                  <span style={{ color: "var(--color-deep)", fontWeight: 600 }}>{item.question}</span>
                   <svg
                     width="24"
                     height="24"
@@ -611,7 +663,6 @@ function Footer() {
         {t.footer.callToAction}
       </p>
       <p className="footer-text" style={{ marginTop: "1rem" }}>{t.footer.text}</p>
-      <p className="footer-made">{t.footer.made}</p>
     </footer>
   );
 }
