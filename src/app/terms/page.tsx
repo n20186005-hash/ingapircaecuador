@@ -58,7 +58,7 @@ export default function TermsPage() {
             责任限制
           </h2>
           <p style={{ lineHeight: "1.8", color: "var(--color-earth-soft)" }}>
-            本网站按"现状"提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。
+            本网站按&quot;现状&quot;提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。
           </p>
         </section>
 

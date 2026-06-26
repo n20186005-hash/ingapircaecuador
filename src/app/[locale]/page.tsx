@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect, useState, useRef } from "react";
+import Link from "next/link";
 import { LangProvider, useLang } from "@/components/LangProvider";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
@@ -196,7 +197,7 @@ function Transportation() {
             <h3 className="transport-title">{t.transportation.airport.title}</h3>
             <p className="transport-content" style={{ marginBottom: "1rem" }}>{t.transportation.airport.content}</p>
             <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
-              {t.transportation.airport.options.map((opt: any, i: number) => (
+              {t.transportation.airport.options.map((opt: { name: string; price: string; time: string; steps: string[] }, i: number) => (
                 <div key={i} style={{ padding: "1.25rem", background: "rgba(0,0,0,0.03)", borderRadius: "6px" }}>
                   <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "0.5rem" }}>
                     <strong style={{ color: "var(--color-deep)", fontSize: "1.05rem" }}>{opt.name}</strong>
@@ -397,7 +398,7 @@ function FAQ() {
         </ScrollReveal>
         <ScrollReveal>
           <div className="faq-list">
-            {faqItems.map((item: any, i: number) => (
+            {faqItems.map((item: { question: string; answer: string }, i: number) => (
               <div className={`faq-item ${expandedIndex === i ? "expanded" : ""}`} key={i}>
                 <button
                   className="faq-question"
@@ -496,7 +497,7 @@ function Footer() {
       <div className="footer-links">
         <p className="footer-links-title">{t.footer.linksTitle}</p>
         <div className="footer-links-grid">
-          {t.footer.links.map((link: any, i: number) => (
+          {t.footer.links.map((link: { name: string; url: string }, i: number) => (
             <a key={i} href={link.url} target="_blank" rel="noopener noreferrer" className="footer-link-item">
               {link.name}
             </a>
@@ -504,15 +505,15 @@ function Footer() {
         </div>
       </div>
       <div className="footer-legal" style={{ maxWidth: "1100px", margin: "0 auto", padding: "1rem 2rem 0", textAlign: "center" }}>
-        <a href="/privacy" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
+        <Link href="/privacy" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
           Privacy Policy
-        </a>
-        <a href="/terms" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
+        </Link>
+        <Link href="/terms" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
           Terms of Service
-        </a>
-        <a href="/cookies" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem" }}>
+        </Link>
+        <Link href="/cookies" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem" }}>
           Cookie Settings
-        </a>
+        </Link>
       </div>
       <p className="footer-text" style={{ marginTop: "1rem" }}>{t.footer.text}</p>
       <p className="footer-made">{t.footer.made}</p>
@@ -523,7 +524,7 @@ function Footer() {
 export default function Home(props: { params: Promise<{ locale: string }> }) {
   const params = React.use(props.params);
   return (
-    <LangProvider initialLocale={params.locale as any}>
+    <LangProvider initialLocale={params.locale as "en" | "zh" | "es"}>
       <Nav />
       <Hero />
       <About />

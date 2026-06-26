@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: "export",
   turbopack: {},
-  webpack: (config, { isServer }) => {
+  webpack: (config) => {
     return config;
   },
 };
