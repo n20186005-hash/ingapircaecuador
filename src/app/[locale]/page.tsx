@@ -662,7 +662,7 @@ function Footer() {
       <p className="footer-text" style={{ marginTop: "2rem", fontSize: "0.9rem", fontWeight: 600, color: "var(--color-gold)" }}>
         {t.footer.callToAction}
       </p>
-      <p className="footer-text" style={{ marginTop: "1rem" }}>{t.footer.text}</p>
+      <p className="footer-text" style={{ marginTop: "1rem", whiteSpace: "pre-line" }}>{t.footer.text}</p>
     </footer>
   );
 }

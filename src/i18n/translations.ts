@@ -249,7 +249,7 @@ export const translations = {
     },
     footer: {
       callToAction: "作为文化遗产的守护者，请与我们一起遵守“不留下痕迹（Leave No Trace）”原则。",
-      text: "© 2026 英加皮尔卡考古建筑群旅行指南 · 保留所有权利。",
+      text: "© 2026 英加皮尔卡考古建筑群旅行指南 · 保留所有权利。\n本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
       made: "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。为探索者而制",
       linksTitle: "相关链接",
       links: [
@@ -509,7 +509,7 @@ export const translations = {
     },
     footer: {
       callToAction: "As a guardian of cultural heritage, please join us in observing the \"Leave No Trace\" principles.",
-      text: "© 2026 Ingapirca Archaeological Complex Travel Guide · All rights reserved.",
+      text: "© 2026 Ingapirca Archaeological Complex Travel Guide · All rights reserved.\nThis website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
       made: "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions. Made for explorers",
       linksTitle: "Related Links",
       links: [
@@ -769,7 +769,7 @@ export const translations = {
     },
     footer: {
       callToAction: "Como guardián del patrimonio cultural, únase a nosotros para observar el principio de \"No Dejar Rastro\" (Leave No Trace).",
-      text: "© 2026 Guía de Viaje del Complejo Arqueológico Ingapirca · Todos los derechos reservados.",
+      text: "© 2026 Guía de Viaje del Complejo Arqueológico Ingapirca · Todos los derechos reservados.\nEste sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
       made: "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales. Hecho para exploradores",
       linksTitle: "Enlaces Relacionados",
       links: [
