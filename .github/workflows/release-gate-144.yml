@@ -15,18 +15,6 @@ jobs:
         with:
           node-version: 22
           registry-url: https://registry.npmjs.org
-      - name: Prepare patched lockfile in runner
-        run: |
-          npm install --package-lock-only --ignore-scripts --no-audit --no-fund --save-exact next@16.4.6 eslint-config-next@16.4.6
-          npm audit fix --package-lock-only --ignore-scripts --no-fund || true
-          echo "PATCH_PACKAGE_BEGIN"
-          base64 -w 0 package.json
-          echo
-          echo "PATCH_PACKAGE_END"
-          echo "PATCH_LOCK_BEGIN"
-          base64 -w 0 package-lock.json
-          echo
-          echo "PATCH_LOCK_END"
       - run: npm ci --no-audit --no-fund
       - name: Audit locked dependencies
         id: audit
