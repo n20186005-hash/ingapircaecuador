@@ -19,7 +19,21 @@ jobs:
       - name: Audit locked dependencies
         id: audit
         continue-on-error: true
-        run: npm audit --json > audit-report.json
+        run: |
+          set +e
+          npm audit --json > audit-report.json
+          audit_status=$?
+          python - <<'PY'
+          import json
+          with open('audit-report.json') as f:
+              data = json.load(f)
+          print('Audit metadata:', json.dumps(data.get('metadata', {}).get('vulnerabilities', {})))
+          for name, info in data.get('vulnerabilities', {}).items():
+              print(json.dumps({'name': name, 'severity': info.get('severity'), 'range': info.get('range'), 'via': info.get('via'), 'fixAvailable': info.get('fixAvailable'), 'nodes': info.get('nodes')}))
+          if data.get('error'):
+              print('Audit error:', json.dumps(data['error']))
+          PY
+          exit "$audit_status"
       - run: npm run build
       - name: Verify exported pages and assets
         run: |
