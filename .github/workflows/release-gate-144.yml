@@ -15,17 +15,6 @@ jobs:
         with:
           node-version: 22
           registry-url: https://registry.npmjs.org
-      - name: Resolve pinned Wrangler for candidate
-        run: |
-          npm install --save-dev --save-exact --package-lock-only --ignore-scripts --no-audit --no-fund wrangler@4.167.0
-          echo PATCH_PACKAGE_BEGIN
-          base64 -w 0 package.json
-          echo
-          echo PATCH_PACKAGE_END
-          echo PATCH_LOCK_BEGIN
-          base64 -w 0 package-lock.json
-          echo
-          echo PATCH_LOCK_END
       - run: npm ci --no-audit --no-fund
       - name: Audit locked dependencies
         id: audit
