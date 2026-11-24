@@ -17,7 +17,7 @@ jobs:
           registry-url: https://registry.npmjs.org
       - name: Resolve pinned Wrangler for candidate
         run: |
-          npm install --save-dev --save-exact --package-lock-only --ignore-scripts --no-audit --no-fund wrangler@4.148.0
+          npm install --save-dev --save-exact --package-lock-only --ignore-scripts --no-audit --no-fund wrangler@4.167.0
           echo PATCH_PACKAGE_BEGIN
           base64 -w 0 package.json
           echo
