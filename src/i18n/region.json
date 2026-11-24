@@ -1,0 +1,1322 @@
+{
+  "nube": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-azogues/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/02/Az_01_SantuarioVirgenNube-1.jpg",
+    "area": "Azogues",
+    "query": "Santuario de San Francisco, Azogues, Ecuador",
+    "pin": "-2.7417209,-78.8430307",
+    "category": "church",
+    "copy": {
+      "en": {
+        "name": "Virgen de la Nube Sanctuary",
+        "intro": "The stone sanctuary above Azogues is a destination for pilgrims devoted to the Virgin of the Cloud. Its elevated setting makes the approach part of the visit: the town gradually falls below the level of the church.",
+        "steps": [
+          "Begin at the foot of the approach",
+          "climb to the forecourt, pausing to turn back toward the town",
+          "view the stone façade from the side before entering during visitor access."
+        ],
+        "photo": "From the landing, place the stone parapet below the outline of the city.",
+        "observe": "Two views explain the site better than one. From below, the church marks a destination high above ordinary streets. From the forecourt, the same elevation turns the town into the backdrop of a pilgrimage."
+      },
+      "es": {
+        "name": "Santuario de la Virgen de la Nube",
+        "intro": "Este santuario de piedra domina Azogues y recibe a peregrinos de la Virgen de la Nube. El desnivel forma parte de la visita: mientras se sube, la ciudad va quedando por debajo del templo.",
+        "steps": [
+          "Empiece al pie del acceso",
+          "suba al atrio y vuelva la vista hacia la ciudad",
+          "observe la fachada de lado antes de entrar cuando esté permitido."
+        ],
+        "photo": "Desde el descanso, encuadre el parapeto de piedra por debajo del perfil urbano.",
+        "observe": "Dos miradas explican el lugar. Desde abajo, el templo señala una meta elevada sobre las calles. Desde el atrio, la misma altura convierte a la ciudad en el fondo de la peregrinación."
+      },
+      "zh": {
+        "name": "云中圣母圣殿",
+        "intro": "阿索格斯城上方的石砌圣殿是云中圣母信众的朝圣地。步行登高也是参观的一部分，随着台阶逐渐上升，城区屋顶渐渐低于教堂所在的平台。",
+        "steps": [
+          "从入口坡道下端起步",
+          "上到前庭后回身俯瞰城区",
+          "先从侧面看石砌立面，再依开放情况入内。"
+        ],
+        "photo": "在平台上把石栏放在画面下缘，远处保留城区轮廓。",
+        "observe": "从下往上看，教堂是高于日常街巷的目的地；从前庭向下看，同样的高差又使城镇成为朝圣活动的背景。"
+      }
+    }
+  },
+  "cojitambo": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-azogues/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/02/Az_02_Cojitambo.jpg",
+    "area": "Cojitambo, Azogues",
+    "query": "Cerro Cojitambo, Cojitambo, Azogues, Ecuador",
+    "pin": "-2.760262,-78.8882419",
+    "category": "hill",
+    "copy": {
+      "en": {
+        "name": "Cojitambo Hill",
+        "intro": "Rock faces mark this hill above Azogues. Its western side also preserves Cañari and Inca remains. Compare the walls shaped by builders with the much taller natural face that attracts climbers.",
+        "steps": [
+          "Start at the visitor approach above Cojitambo",
+          "follow the indicated path to the archaeological sector",
+          "from an open viewpoint identify the valley and return by the same path."
+        ],
+        "photo": "Frame a wall with the rocky ridge behind it from the designated path.",
+        "observe": "Read the ridge before the masonry. A natural break in the rock and a line of fitted stones can look alike at first glance. Following the change in direction at a wall corner helps distinguish a structure from the hillside."
+      },
+      "es": {
+        "name": "Cerro Cojitambo",
+        "intro": "Las paredes de roca distinguen este cerro de Azogues. Al oeste se conservan vestigios cañaris e incas. Compare la piedra trabajada de los muros con el farallón natural que atrae a escaladores.",
+        "steps": [
+          "Salga del acceso de visitantes sobre Cojitambo",
+          "siga el camino indicado al sector arqueológico",
+          "observe el valle desde un punto abierto y regrese por el mismo sendero."
+        ],
+        "photo": "Desde el camino encuadre un muro con la cresta rocosa detrás.",
+        "observe": "Lea primero la cresta. Una fractura de la roca y una hilada de piedra pueden parecer similares. Siga el cambio de dirección en una esquina para distinguir una estructura de la ladera."
+      },
+      "zh": {
+        "name": "科希坦博山",
+        "intro": "阿索格斯上方的山崖因峭壁而醒目，西侧还保留卡尼亚里人与印加人的遗迹。这里可以直接比较人工砌墙与天然岩面的尺度，后者也是攀岩者前来的原因。",
+        "steps": [
+          "从科希坦博村上方的游客入口开始",
+          "沿标识小径到考古区",
+          "在开放观景点辨认河谷后原路返回。"
+        ],
+        "photo": "从规定步道把遗址矮墙与后方岩脊收在同一画面。",
+        "observe": "先看天然山脊，再看石墙。天然裂缝与人工石列远看可能相似，追踪墙角转折的方向，有助于将建筑结构从山坡轮廓里分辨出来。"
+      }
+    }
+  },
+  "guapan": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-azogues/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/02/Az_03_AguasTermalesGuapan.jpg",
+    "area": "Guapán, Azogues",
+    "query": "Aguas termales de Guapán, Guapán, Azogues, Ecuador",
+    "pin": "-2.7103621,-78.846774",
+    "category": "bath",
+    "copy": {
+      "en": {
+        "name": "Guapán Thermal Baths",
+        "intro": "Thermal water rises in the centre of Guapán parish. Unlike a wilderness hot spring, this is an organised bathing complex where the choice of pool and access to changing facilities shape the visit.",
+        "steps": [
+          "Start in Guapán centre",
+          "check the open bathing areas at reception",
+          "use the changing area before proceeding to your assigned pool and returning to the entrance."
+        ],
+        "photo": "Use the outside approach for a view of the facility without including bathers.",
+        "observe": "Look for the boundary between the source landscape and the visitor installation. Water emerging in the parish is the reason the complex developed here, while the changing rooms and individual pools belong to its contemporary recreational use."
+      },
+      "es": {
+        "name": "Complejo Termal de Guapán",
+        "intro": "Las aguas termales afloran en el centro parroquial. Se visita un complejo organizado: la piscina habilitada y el acceso al vestuario determinan el recorrido desde la recepción.",
+        "steps": [
+          "Comience en el centro de Guapán",
+          "consulte las áreas abiertas en recepción",
+          "pase por los vestuarios y siga hasta la piscina indicada antes de volver a la entrada."
+        ],
+        "photo": "Fotografíe el acceso exterior sin incluir a las personas que se bañan.",
+        "observe": "Observe la diferencia entre el origen del agua y las instalaciones. La surgencia explica la ubicación; los vestuarios y las piscinas corresponden al uso recreativo actual."
+      },
+      "zh": {
+        "name": "瓜潘温泉",
+        "intro": "热泉在瓜潘教区中心涌出。游客进入的是设有接待与更衣设施的温泉场所。先了解当天开放的水池，再决定更衣后的动线，比直接循着水声找池子更实用。",
+        "steps": [
+          "从瓜潘镇中心前往入口",
+          "在接待处了解开放的泡池",
+          "经过更衣区前往指定水池，结束后沿入口方向离开。"
+        ],
+        "photo": "从外部入口拍摄场馆，避开泡汤和更衣的人。",
+        "observe": "可把观察分成泉水与设施两层：当地涌出的温泉决定了场所的位置，更衣室和各个泡池则体现今天的休闲用途。"
+      }
+    }
+  },
+  "abuga": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-azogues/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/02/Az_04_CerroAbuga.jpg",
+    "area": "Azogues",
+    "query": "Cerro Abuga, Azogues, Ecuador",
+    "pin": "-2.7218672,-78.828416",
+    "category": "hill",
+    "copy": {
+      "en": {
+        "name": "Abuga Hill",
+        "intro": "Abuga rises on the sandstone formations of Azogues. The figure of the Virgin of the Cloud at the summit links the skyline to the religious life of the city below; it is distinct from the sanctuary within the town.",
+        "steps": [
+          "Identify the summit figure from the approach",
+          "ascend the established path at your own pace",
+          "at the open viewpoint turn toward Azogues before retracing the climb."
+        ],
+        "photo": "Place the figure against the sky, then turn away from it for the city panorama.",
+        "observe": "The summit figure can serve as a scale marker from below. On the descent, pick out one street or cluster of roofs you noticed from above and watch how quickly the sandstone ridge disappears from view."
+      },
+      "es": {
+        "name": "Cerro Abuga",
+        "intro": "El Abuga se levanta sobre las areniscas de Azogues. La imagen de la Virgen de la Nube en la cumbre enlaza el paisaje con la devoción de la ciudad; conviene distinguirla del santuario urbano.",
+        "steps": [
+          "Identifique la imagen desde el acceso",
+          "suba por el sendero establecido a su ritmo",
+          "en el mirador oriente la vista hacia Azogues y descienda por el mismo recorrido."
+        ],
+        "photo": "Recorte la imagen contra el cielo y gire después hacia la ciudad para una segunda toma.",
+        "observe": "La figura sirve de escala desde abajo. En la bajada elija una calle o grupo de techos visto desde arriba y observe cuándo deja de verse la cresta de arenisca."
+      },
+      "zh": {
+        "name": "阿布加山",
+        "intro": "山体立在阿索格斯的砂岩地层上。顶端的云中圣母像让远处天际线与城内信仰联系起来。山顶塑像与市区的圣殿是两个不同的目的地。",
+        "steps": [
+          "从上山入口先认准顶端塑像",
+          "沿现有步道按自己的节奏上坡",
+          "在开放眺望处面向阿索格斯，休息后原路下山。"
+        ],
+        "photo": "先让塑像轮廓衬着天空，再转身拍摄城区全景。",
+        "observe": "登山前可用山顶雕像判断山体尺度，下山时再选一处刚在高处看到的屋顶群，观察砂岩山脊何时消失在视线之外。"
+      }
+    }
+  },
+  "rocio": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-biblian/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Bib_01_SantuarioVirgenRocio.jpg",
+    "area": "Biblián",
+    "query": "Santuario de la Virgen del Rocío, Biblián, Ecuador",
+    "pin": "-2.7185434,-78.8824441",
+    "category": "church",
+    "copy": {
+      "en": {
+        "name": "Virgen del Rocío Sanctuary",
+        "intro": "The sanctuary on the slope above Biblián is visible on arrival in town. Its pointed Gothic forms and the steep hillside explain the dramatic silhouette, while the steady stream of pilgrims accounts for the ceremonial use of the forecourt.",
+        "steps": [
+          "Find the sanctuary from the town approach",
+          "ascend to the outer terrace and compare its level with the street",
+          "approach the doors from the forecourt when worship permits."
+        ],
+        "photo": "A lower landing gives the clearest separation between the pointed roofline and the hill.",
+        "observe": "Compare the pointed outlines with the actual slope rather than judging the building only by its height. The changing angle of approach makes the sanctuary seem to rise directly from the hillside."
+      },
+      "es": {
+        "name": "Santuario de la Virgen del Rocío",
+        "intro": "Desde la entrada a Biblián se reconoce el santuario en la ladera. Sus formas góticas se recortan sobre la pendiente, mientras la llegada de peregrinos explica la importancia del atrio como lugar de encuentro.",
+        "steps": [
+          "Localice el templo desde el acceso urbano",
+          "suba a la terraza exterior y compare su nivel con la calle",
+          "acérquese a la puerta desde el atrio si el culto lo permite."
+        ],
+        "photo": "Desde un descanso inferior se distinguen mejor los remates apuntados y el cerro.",
+        "observe": "Compare los perfiles apuntados con la pendiente, además de fijarse en la altura. El ángulo cambiante de acceso hace que el santuario parezca surgir de la ladera."
+      },
+      "zh": {
+        "name": "露水圣母圣殿",
+        "intro": "来到比布利安城镇入口即可辨认山坡上的圣殿。尖顶的哥特式线条与陡坡共同形成醒目的剪影；朝圣者在此聚集，也使前庭具有区别于普通观景台的仪式意义。",
+        "steps": [
+          "在镇内先确认教堂方位",
+          "上到外侧平台比较与街面的高差",
+          "从前庭接近入口，依礼拜安排入内。"
+        ],
+        "photo": "在较低一级的平台拍摄，尖顶和后方山坡更容易分开。",
+        "observe": "不只看建筑高度，也要比较尖顶与斜坡的角度。登高时不断变化的视角，使圣殿看起来像是从山体中逐渐升起。"
+      }
+    }
+  },
+  "burgay": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-biblian/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Bib_02_GranjaBurgay.jpg",
+    "area": "Burgay, Biblián",
+    "query": "Granja de Burgay, Burgay, Biblián, Ecuador",
+    "pin": "-2.6613344,-78.9454939",
+    "category": "farm",
+    "copy": {
+      "en": {
+        "name": "Burgay Farm",
+        "intro": "At this agricultural education centre, Andean crops, an orchid collection and animal areas share a four-hectare site. The central square is a useful point for comparing growing conditions outdoors with the sheltered plant displays.",
+        "steps": [
+          "Start in the central square",
+          "follow the visitor path past the Andean crops to the orchid area when open",
+          "return through the public recreation area without crossing working plots."
+        ],
+        "photo": "Frame the cultivated rows from the path, keeping labels alongside the plants.",
+        "observe": "Choose one crop in the working plots and one plant under cover. Look at the soil, supports and amount of shade around each. This simple comparison gives a family visit a practical thread between the different exhibits."
+      },
+      "es": {
+        "name": "Granja Burgay",
+        "intro": "Cultivos andinos, orquideario y áreas con animales comparten las cuatro hectáreas del centro agropecuario. Desde la plaza central se pueden comparar las condiciones al aire libre con el ambiente protegido de las plantas en exhibición.",
+        "steps": [
+          "Parta de la plaza central",
+          "siga el recorrido de cultivos hasta el orquideario si está abierto",
+          "vuelva por la zona recreativa sin cruzar las parcelas de trabajo."
+        ],
+        "photo": "Fotografíe las hileras desde el camino e incluya las etiquetas junto a las plantas.",
+        "observe": "Elija un cultivo de la parcela y una planta bajo cubierta. Compare suelo, soportes y sombra. Así se conectan las exhibiciones con decisiones concretas de cultivo."
+      },
+      "zh": {
+        "name": "布尔盖农场",
+        "intro": "这座农业教育场所占地约四公顷，有安第斯作物、兰花展示区和动物区。以中央广场为起点，先看露地种植，再观察受保护环境中的植物，能读出两种不同的栽培条件。",
+        "steps": [
+          "从中央广场开始",
+          "沿访客路径穿过作物展示区，在开放时参观兰花区",
+          "经公共休闲区返回，不穿越作业田块。"
+        ],
+        "photo": "从田边小路拍整齐的作物行列，可把植物标签也保留在画面里。",
+        "observe": "在露地田块和遮蔽展示区各选一种植物，比较土壤、支撑方式与光照。这条线索能把不同的展区串成一次具体的农事观察。"
+      }
+    }
+  },
+  "tushin": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-biblian/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Bib_03_TushinBurgay.jpg",
+    "area": "Jerusalén, Biblián",
+    "query": "Laguna de Tushin, Jerusalén, Biblián, Ecuador",
+    "pin": "-2.6336094,-78.9708674",
+    "category": "lake",
+    "copy": {
+      "en": {
+        "name": "Tushin-Burgay Lagoon",
+        "intro": "Above Jerusalén parish, a community-managed páramo holds water for the surrounding landscape. Read the lagoon together with its grassland catchment: saturated ground does not end at the visible waterline.",
+        "steps": [
+          "Arrange the approach through Jerusalén",
+          "meet the local contact before following the approved grassland track",
+          "pause at the designated shore viewpoint and retrace the dry path."
+        ],
+        "photo": "From firm ground keep a strip of páramo in the foreground to show the catchment.",
+        "observe": "A still lagoon reveals only the open part of a much larger water system. Follow the change in the colour and density of the grasses from a dry viewpoint to see where moisture spreads through the páramo."
+      },
+      "es": {
+        "name": "Laguna Tushin-Burgay",
+        "intro": "Sobre la parroquia Jerusalén, el páramo manejado por la comunidad actúa como reserva de agua. La laguna se entiende mejor junto con los pajonales: el terreno saturado continúa más allá de la orilla visible.",
+        "steps": [
+          "Coordine la llegada por Jerusalén",
+          "confirme el sendero habilitado con la asociación",
+          "observe la orilla desde el punto autorizado y vuelva por terreno firme."
+        ],
+        "photo": "Incluya una franja de pajonal en primer plano desde un sitio firme para mostrar la cuenca.",
+        "observe": "La lámina de agua es solo la parte abierta del sistema. Desde un punto seco siga los cambios de color y densidad del pajonal para advertir por dónde se distribuye la humedad."
+      },
+      "zh": {
+        "name": "图欣布尔盖潟湖",
+        "intro": "耶路撒冷教区上方的高地由当地社群参与管理，是重要的蓄水环境。看湖时也应观察四周的高山草甸，外观看似离开了水线的地面，仍可能相当湿软。",
+        "steps": [
+          "经耶路撒冷教区安排进山",
+          "向当地管理方确认允许行走的草甸小径",
+          "在指定湖岸观景处停留，沿坚实路面折返。"
+        ],
+        "photo": "在稳固的地面取景，保留一条草甸前景，带出集水区的形态。",
+        "observe": "平静的湖面只是整个水系露出的一部分。从干燥地点观察草丛颜色和密度的变化，可以看出水分如何在高地扩散。"
+      }
+    }
+  },
+  "culebrillas": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-canar/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Canarcant_01_LagunaCulebrillas.jpg",
+    "area": "Cañar",
+    "query": "Laguna de Culebrillas, Cañar, Ecuador",
+    "pin": "-2.4251686,-78.8634246",
+    "category": "lake",
+    "copy": {
+      "en": {
+        "name": "Culebrillas Lagoon",
+        "intro": "Sacred in Cañari tradition, the lagoon lies below Yanahurco in the high páramo of Sangay National Park. The nearby Inca road adds another layer to a landscape often seen only as a mountain lake.",
+        "steps": [
+          "Arrange the highland approach from Cañar",
+          "at the permitted shore stop identify Yanahurco across the basin",
+          "ask locally where the historic road is accessible before extending the walk."
+        ],
+        "photo": "From the legal shore path align the mountain with the curve of the lake.",
+        "observe": "Hold the lake, the mountain and the route in mind together. The water has a place in Cañari tradition, while the road records movement through this same terrain. Neither story requires entering the protected shore vegetation."
+      },
+      "es": {
+        "name": "Laguna de Culebrillas",
+        "intro": "La laguna, sagrada en la tradición cañari, ocupa una hoya al pie del Yanahurco en el páramo alto de Sangay. La presencia cercana del camino inca añade una lectura histórica al paisaje lacustre.",
+        "steps": [
+          "Organice la llegada desde Cañar",
+          "desde la orilla habilitada localice el Yanahurco",
+          "consulte el acceso al camino histórico antes de prolongar la caminata."
+        ],
+        "photo": "Desde el sendero permitido alinee el cerro con el arco de la orilla.",
+        "observe": "Relacione laguna, cerro y camino. El agua ocupa un lugar en la tradición cañari y la vía recuerda el tránsito por el mismo territorio. Ambas lecturas son posibles desde la senda."
+      },
+      "zh": {
+        "name": "库莱布里亚斯湖",
+        "intro": "在卡尼亚里人的传统中，这是一座圣湖。湖盆位于桑盖国家公园高山草甸、亚纳乌尔科山下。附近的印加古道也提示着高原交通史，让湖泊不只是一处自然风景。",
+        "steps": [
+          "从卡尼亚尔安排高原接送",
+          "在准许到达的湖边辨认对面的亚纳乌尔科山",
+          "如想续走古道，先向当地确认开放路段。"
+        ],
+        "photo": "从允许通行的岸边步道，让远山与弧形湖岸同时入画。",
+        "observe": "把湖泊、山体与古道合在一起看：水域承载卡尼亚里传统，古道记录往来者如何穿过同一片高地。站在既有步道上即可观察这两层意义。"
+      }
+    }
+  },
+  "narrio": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-canar/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Canarcant_03_CerroNarrio.jpg",
+    "area": "Cañar",
+    "query": "Cerro Narrío, Cañar, Ecuador",
+    "pin": "-2.5593102,-78.9454701",
+    "category": "hill",
+    "copy": {
+      "en": {
+        "name": "Cerro Narrío",
+        "intro": "East of Cañar, this rounded hill is a major archaeological landmark of the Formative period. Finds associated with Spondylus shell exchange connect the uplands with distant trading networks; little of that story is obvious from the surface alone.",
+        "steps": [
+          "Begin on the Cañar side",
+          "compare the hill profile with the lower Shan-Shan ravine",
+          "follow the authorised approach and view the terrain without disturbing the soil."
+        ],
+        "photo": "A side view from the approach conveys the low, turtle-like outline more clearly than a summit photo.",
+        "observe": "Treat the shape of the hill as the first exhibit. Artefacts once helped researchers reconstruct long-distance exchange, but a visitor can still read the relationship between the low summit, ravine and settlement from public ground."
+      },
+      "es": {
+        "name": "Cerro Narrío",
+        "intro": "Al este de Cañar, el relieve redondeado marca un importante sitio del periodo Formativo. Los hallazgos vinculados al intercambio de Spondylus relacionan la sierra con redes lejanas, una historia difícil de leer solo en la superficie.",
+        "steps": [
+          "Parta del lado de Cañar",
+          "compare la silueta del cerro con la quebrada Shan-Shan",
+          "siga el acceso autorizado y observe el terreno sin remover tierra."
+        ],
+        "photo": "Una vista lateral desde el acceso muestra mejor el perfil de tortuga que una foto en la cima.",
+        "observe": "Tome la silueta como primera pieza de la visita. Los objetos permitieron reconstruir intercambios lejanos; desde terreno público aún se lee la relación entre cumbre, quebrada y asentamiento."
+      },
+      "zh": {
+        "name": "纳里奥山",
+        "intro": "卡尼亚尔以东的圆丘是形成期的一处重要考古地点。与海菊蛤贝壳交换有关的发现，把安第斯高地与远方的贸易网络联系起来；仅凭地表可见的痕迹，很难了解全部历史。",
+        "steps": [
+          "从卡尼亚尔一侧出发",
+          "比较丘陵轮廓与较低处的尚尚沟谷",
+          "沿允许进入的路径观察地形，不翻动土壤。"
+        ],
+        "photo": "从入口侧面取景，比站在山顶更容易拍出像龟背的低矮轮廓。",
+        "observe": "可把整座山丘视作第一件展品。考古器物帮助研究者重建长途交换，而站在公共区域，游客今天仍能观察低矮山顶、沟谷与聚落的位置关系。"
+      }
+    }
+  },
+  "estacion-tambo": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-el-tambo/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/ElTambo_02B_EstacionFerrocarril.jpg",
+    "area": "El Tambo",
+    "query": "Estación de ferrocarril, El Tambo, Ecuador",
+    "pin": "-2.5125119,-78.9249422",
+    "category": "museum",
+    "copy": {
+      "en": {
+        "name": "El Tambo Railway Station",
+        "intro": "The station opened in 1930 and brought travellers and merchants together in El Tambo. Its restored building offers a way to read the town through the railway, even when there is no train service to board.",
+        "steps": [
+          "Start on the town side of the station",
+          "follow the public frontage to the former platform area",
+          "look back along the railway alignment before returning to the street."
+        ],
+        "photo": "Use the platform edge as a leading line while remaining outside the track area.",
+        "observe": "Imagine the station from the two sides of a journey. The street frontage received people and goods from town; the long railway-facing edge organised movement along the train. A walk around the building makes that division legible."
+      },
+      "es": {
+        "name": "Estación del Ferrocarril de El Tambo",
+        "intro": "La estación abrió en 1930 y reunió a viajeros y comerciantes. El edificio restaurado permite entender la relación del cantón con el ferrocarril incluso cuando no hay un tren disponible para viajar.",
+        "steps": [
+          "Empiece por el lado urbano",
+          "recorra la fachada pública hacia el andén",
+          "observe la alineación de la vía y regrese por el acceso a la calle."
+        ],
+        "photo": "Use el borde del andén como línea de fuga sin entrar a la vía.",
+        "observe": "Lea la estación desde los dos lados del viaje. La fachada urbana recibía personas y mercancías; el frente longitudinal del andén organizaba el movimiento junto al tren. Rodear el edificio permite entender esa división."
+      },
+      "zh": {
+        "name": "埃尔坦博火车站",
+        "intro": "这座车站于1930年投入使用，曾是旅客和商贩汇集之处。修复后的站房能让人从铁路的角度理解城镇的发展，即使当天没有列车运营，也有值得阅读的空间。",
+        "steps": [
+          "从靠城区一侧的入口起步",
+          "沿站房公共立面走到原站台附近",
+          "观察轨道延伸的方向，再从街道一侧离开。"
+        ],
+        "photo": "站在公共区域，用站台边缘作引导线，不进入轨道。",
+        "observe": "从一次旅程的两个方向阅读站房：临街面接收来自镇上的人和货物，沿线展开的长站台组织上下车。绕着建筑转一圈，便能看出两面的职能差异。"
+      }
+    }
+  },
+  "coyoctor": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-el-tambo/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/ElTambo_01_BanosDelInca.jpg",
+    "area": "Coyoctor, El Tambo",
+    "query": "Complejo arqueológico baños cañari inca, Coyoctor, El Tambo, Ecuador",
+    "pin": "-2.5245929,-78.9134572",
+    "category": "arch",
+    "copy": {
+      "en": {
+        "name": "Coyoctor Archaeological Baths",
+        "intro": "At Coyoctor the word “baths” refers to carved stone features in a ceremonial archaeological setting. Basins, a stone seat and building foundations are clues to past use, rather than facilities for bathing today.",
+        "steps": [
+          "Enter via the archaeological visitor access",
+          "find the basins cut into the rock",
+          "compare the stone seat with the nearby foundations before returning along the designated path."
+        ],
+        "photo": "Shoot obliquely from the path so the rims and depth of the basins remain legible.",
+        "observe": "The most revealing change is between natural bedrock and carved edges. Compare one rounded hollow with a sharply defined margin, then look for the foundations nearby to see how isolated features relate to a wider site."
+      },
+      "es": {
+        "name": "Baños Cañari-Inca de Coyoctor",
+        "intro": "En Coyoctor los baños son elementos tallados en piedra dentro de un sitio ceremonial. Tinas, un asiento pétreo y cimientos ayudan a interpretar usos antiguos; hoy se recorren como patrimonio arqueológico.",
+        "steps": [
+          "Entre por el acceso de visitantes",
+          "identifique las tinas excavadas en la roca",
+          "compare el asiento de piedra con los cimientos antes de regresar por el sendero señalado."
+        ],
+        "photo": "Fotografíe en diagonal desde el camino para distinguir borde y profundidad de las tinas.",
+        "observe": "Compare la roca natural con los cortes. Una cavidad redondeada y un borde bien definido se leen distinto; los cimientos cercanos ayudan a relacionar esos detalles con el conjunto."
+      },
+      "zh": {
+        "name": "科约克托尔考古石浴遗址",
+        "intro": "这里的“浴池”指仪式遗址中凿入岩石的构件。石槽、石座与房屋基址都是了解古代使用方式的线索，如今参观的是考古遗产，而不是可供泡浴的设施。",
+        "steps": [
+          "从遗址访客入口进入",
+          "辨认凿在基岩上的槽池",
+          "比较石座与附近基址的位置，再沿指定步道离开。"
+        ],
+        "photo": "从步道上斜向拍摄石槽，使边沿和凹入深度都清楚可见。",
+        "observe": "观察基岩与人工切削面交接的地方。圆弧凹槽和界线清晰的石边提供不同线索，再用旁边的基址把这些局部放回整处遗址中理解。"
+      }
+    }
+  },
+  "guabizhun": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-deleg/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Deleg_01_ComplejoEcoTurGuabizhun.jpg",
+    "area": "Déleg",
+    "query": "Laguna de Guabizhun, Déleg, Ecuador",
+    "pin": "-2.8038004,-78.9374124",
+    "category": "lake",
+    "copy": {
+      "en": {
+        "name": "Guabizhún Lagoon",
+        "intro": "Low herbaceous vegetation surrounds the lagoon in Déleg. From the open landscape, distant hills such as Cojitambo help locate this body of water within the wider southern Cañar uplands.",
+        "steps": [
+          "Start at the ecotourism complex entrance",
+          "follow the permitted lake-edge path",
+          "at an open viewpoint look beyond the water for Cojitambo before returning."
+        ],
+        "photo": "Place the low plants in the foreground and reserve space for the horizon.",
+        "observe": "At lake level the grasses can conceal the exact shore. Step back on the path and compare the horizontal waterline with the distant high ground. This gives the small plants a landscape context."
+      },
+      "es": {
+        "name": "Laguna de Guabizhún",
+        "intro": "Una franja de vegetación herbácea rodea la laguna de Déleg. El horizonte abierto permite ubicarla dentro de la sierra meridional de Cañar usando cerros lejanos como el Cojitambo como referencia.",
+        "steps": [
+          "Comience en el acceso al complejo ecoturístico",
+          "siga el tramo habilitado junto al agua",
+          "busque el Cojitambo desde un claro y regrese por la senda."
+        ],
+        "photo": "Encuadre las plantas bajas en primer plano y deje espacio para el horizonte.",
+        "observe": "A ras del agua las hierbas ocultan la orilla. Retroceda por la senda y compare la horizontal de la laguna con los cerros lejanos para situar esa vegetación en el paisaje."
+      },
+      "zh": {
+        "name": "瓜比顺湖",
+        "intro": "德莱格的这座湖泊由一圈低矮草本植物环绕。开阔的地平线把视野延伸到周围高地；若天气晴好，可以利用远处科希坦博山的位置来辨认湖泊与卡尼亚尔南部高原的关系。",
+        "steps": [
+          "从生态旅游区入口起步",
+          "沿开放的湖边小径前行",
+          "在视野开阔处隔水寻找科希坦博山，然后沿路返回。"
+        ],
+        "photo": "把湖边低矮植物放在前景，同时给远处地平线留出空间。",
+        "observe": "低角度时草本植物往往遮住岸线。沿步道退后几步，对照水平湖面与远处山地，就能把细小的湖岸植被放回整个环境中观察。"
+      }
+    }
+  },
+  "chuyacocha": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-suscal/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Suscal_01_LagunaChuyacocha.jpg",
+    "area": "Suscal",
+    "query": "Laguna de Chuyacocha, Suscal, Ecuador",
+    "pin": null,
+    "category": "lake",
+    "copy": {
+      "en": {
+        "name": "Chuyacocha Lagoon",
+        "intro": "The lagoon is a local gathering place in Suscal. Families come for the waterside setting and local food, and weekend activity can include music and dance; the lake itself remains the focus outside event days.",
+        "steps": [
+          "Enter at the public recreation area",
+          "walk the accessible bank to compare open water with the gathering space",
+          "return to the food area to ask what is being served that day."
+        ],
+        "photo": "Take a wide shore view before entering a busy gathering area or photographing participants.",
+        "observe": "Compare the quieter bank with the place where families gather. Food and occasional performances are part of the local use of the lake; on a quiet day, the relationship between those spaces remains visible."
+      },
+      "es": {
+        "name": "Laguna de Chuyacocha",
+        "intro": "La laguna es un punto de encuentro en Suscal. Las familias llegan por el agua y la comida local; los fines de semana puede haber música o danza, aunque la orilla se visita también sin programación.",
+        "steps": [
+          "Entre por el espacio recreativo",
+          "camine por la orilla accesible y compare el agua abierta con la zona de encuentros",
+          "regrese al área de comida para consultar la oferta del día."
+        ],
+        "photo": "Tome una vista amplia del agua antes de acercarse a un evento o fotografiar participantes.",
+        "observe": "Compare la orilla tranquila con el lugar de reunión. Comidas y espectáculos ocasionales forman parte del uso local; aun en días tranquilos se distingue esa relación entre espacios."
+      },
+      "zh": {
+        "name": "丘亚科查湖",
+        "intro": "这是苏斯卡尔当地聚会休闲的地方。家庭游客既来看湖，也来尝地方食物；周末有时能遇到音乐或舞蹈，平日仍可把观察重点放在湖岸与社区活动空间。",
+        "steps": [
+          "由公共休闲区进入",
+          "沿可达岸边观察开阔水面与聚会场地",
+          "返回餐饮区询问当天供应的地方食物。"
+        ],
+        "photo": "先从岸边拍一张湖面广角，近距离拍活动参与者前另行征得同意。",
+        "observe": "比较安静的湖岸和家庭聚会的场地。食物与不定期表演都属于当地生活，即使没有活动，也能从空间的布局看出湖边如何供人聚集。"
+      }
+    }
+  },
+  "wayrapalte": {
+    "source": "https://www.gobiernodelcanar.gob.ec/canton-suscal/",
+    "credit": "Prefectura del Cañar",
+    "attribution": "https://www.gobiernodelcanar.gob.ec/wp-content/uploads/2025/03/Suscal_02_CerroWayrapalte.jpg",
+    "area": "Suscal",
+    "query": "Cerro Wayrapalte, Suscal, Ecuador",
+    "pin": null,
+    "category": "hill",
+    "copy": {
+      "en": {
+        "name": "Wayrapalte Hill",
+        "intro": "This prominent summit rises above Suscal, where the highlands give way toward the coast. The natural trail crosses changes in vegetation, so the transition on the ascent can be as interesting as the distant view.",
+        "steps": [
+          "Arrange the walking approach with a local contact in Suscal",
+          "follow the agreed ascent to a clear opening",
+          "use that point as the turnaround if cloud hides the ridge."
+        ],
+        "photo": "Use a break in the vegetation to frame the changing relief instead of leaving the trail.",
+        "observe": "On the ascent, notice where dense vegetation opens towards the horizon. The changing visibility is a guide to the transition in relief, even on a day when the lower coastal landscape cannot be seen."
+      },
+      "es": {
+        "name": "Cerro Wayrapalte",
+        "intro": "Esta cumbre sobresale sobre Suscal, en la transición de sierra a costa. El sendero atraviesa cambios de vegetación que dan interés al ascenso aun cuando las nubes oculten la vista lejana.",
+        "steps": [
+          "Coordine la subida con un contacto local en Suscal",
+          "siga el trazado acordado hasta un claro",
+          "use ese punto para regresar si la nubosidad cubre la cresta."
+        ],
+        "photo": "Aproveche un claro entre la vegetación para fotografiar el relieve sin salir del sendero.",
+        "observe": "En la subida observe dónde se abre la vegetación hacia el horizonte. Esos cambios permiten leer la transición del relieve incluso cuando no se ve el paisaje costero inferior."
+      },
+      "zh": {
+        "name": "怀拉帕尔特山",
+        "intro": "山峰位于苏斯卡尔上方、安第斯高地向沿海过渡的地带。天然小径沿途能看到植被变化，因此就算远山被云遮住，步行过程本身仍有值得观察的内容。",
+        "steps": [
+          "在苏斯卡尔联系当地人员安排登山",
+          "循约定路线走到开阔处",
+          "若云层盖住山脊，把开阔处作为折返点。"
+        ],
+        "photo": "利用植被间的自然开口拍摄层层地势，不必为了取景离开小径。",
+        "observe": "边上坡边留意茂密植被在哪些地方突然让出视野。即使低处沿海地形被云遮挡，视线变化也能帮助理解山体起伏。"
+      }
+    }
+  },
+  "cajas": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=4",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=4",
+    "area": "Azuay",
+    "query": "Parque Nacional Cajas Laguna Toreadora, Azuay, Ecuador",
+    "pin": null,
+    "category": "hill",
+    "copy": {
+      "en": {
+        "name": "Cajas National Park",
+        "intro": "West of Cuenca a high plateau holds a network of glacial lakes, paper-bark woodland and wet páramo. At Toreadora, start by reading the folds in the ground: a short distance on the map can involve several rises and wet hollows.",
+        "steps": [
+          "Report at the Toreadora visitor area",
+          "choose an open signed trail towards the lake",
+          "return by the authorised route before cloud obscures the markers."
+        ],
+        "photo": "From the path frame a lake between two folds of grassland to show the shape of the basin.",
+        "observe": "Look for dark water, pale grasses and patches of sheltered woodland within the same basin. The contrast between exposed ridges and moist hollows explains why vegetation changes along a relatively short highland walk."
+      },
+      "es": {
+        "name": "Parque Nacional Cajas",
+        "intro": "Al oeste de Cuenca, una meseta alta reúne lagunas glaciares, bosques de papel y páramo húmedo. Desde Toreadora se distinguen ondulaciones que alargan una caminata aparentemente corta sobre el mapa.",
+        "steps": [
+          "Regístrese en el área de visitantes de Toreadora",
+          "elija un sendero señalizado y abierto hacia la laguna",
+          "regrese antes de que las nubes oculten las marcas."
+        ],
+        "photo": "Desde la senda encuadre la laguna entre dos pliegues del pajonal para mostrar la cuenca.",
+        "observe": "Busque en una misma hoya agua oscura, pajonal claro y pequeños bosques protegidos. La diferencia entre crestas expuestas y hondonadas húmedas explica los cambios de vegetación en trayectos cortos."
+      },
+      "zh": {
+        "name": "卡哈斯国家公园",
+        "intro": "昆卡以西的高原分布冰川湖、纸皮树森林与湿润的高山草甸。托雷亚多拉一带的地势层层起伏，地图上看似很短的一段也可能跨过数道湿洼与坡脊。",
+        "steps": [
+          "到托雷亚多拉访客区登记咨询",
+          "选择已开放、有标识的湖边步道",
+          "在云雾遮挡标志之前按规定路线返回。"
+        ],
+        "photo": "从步道上把湖面框在两道起伏的草坡之间，能看出湖盆形状。",
+        "observe": "在同一个湖盆中寻找深色水面、浅色草甸与背风林块。外露坡脊和湿润低洼的对比，有助于解释为何短短一段步道的植被便会改变。"
+      }
+    }
+  },
+  "barranco": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=7",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=7",
+    "area": "Cuenca, Azuay",
+    "query": "El Barranco del Río Tomebamba, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "river",
+    "copy": {
+      "en": {
+        "name": "El Barranco del Tomebamba",
+        "intro": "The historic city stands above the Tomebamba River, where rear façades overhang the slope. Walking at river level reveals the back of buildings that present a very different face to Calle Larga above.",
+        "steps": [
+          "Descend from Calle Larga by a public stair",
+          "follow the riverside toward Puente Roto",
+          "turn at the bridge to compare earlier façades from the opposite direction."
+        ],
+        "photo": "Use a river-level viewpoint to show the vertical distance between the water and upper-storey balconies.",
+        "observe": "Pause where an upper balcony projects toward the river and follow its wall downward. The apparent height of the houses comes from the river cutting below the old urban terrace as well as from the buildings themselves."
+      },
+      "es": {
+        "name": "El Barranco del Tomebamba",
+        "intro": "La ciudad histórica se alza sobre el río Tomebamba. Vistas desde abajo, las fachadas posteriores parecen colgar de la pendiente y cuentan algo distinto de los frentes que dan a la Calle Larga.",
+        "steps": [
+          "Baje desde la Calle Larga por una escalera pública",
+          "avance junto al río hacia el Puente Roto",
+          "dé la vuelta allí y compare las fachadas desde el otro sentido."
+        ],
+        "photo": "Desde el nivel del río muestre el desnivel entre el agua y los balcones superiores.",
+        "observe": "Deténgase bajo un balcón orientado al río y siga el muro hacia abajo. La altura aparente de las casas se debe tanto a su construcción como al desnivel de la terraza urbana."
+      },
+      "zh": {
+        "name": "托梅班巴河岸崖街",
+        "intro": "昆卡老城坐落在托梅班巴河上方，从河面高度看去，建筑后立面仿佛悬在坡边。它们与上方长街一侧的正立面截然不同，沿河往返比只站在桥上更能读懂这种关系。",
+        "steps": [
+          "从长街经公共阶梯下到河畔",
+          "沿河步行至断桥",
+          "在桥旁折返，从相反方向再观察一次房屋立面。"
+        ],
+        "photo": "在近水处把河面与高处阳台同框，突出建筑跨越的高差。",
+        "observe": "在有阳台伸向河面的位置停下，沿墙壁向下寻找基部。房屋显得格外高，不只因为楼层数量，也因为老城所在的台地高于河面。"
+      }
+    }
+  },
+  "botanico": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=12",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=12",
+    "area": "Cuenca, Azuay",
+    "query": "Jardín Botánico de Cuenca, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "garden",
+    "copy": {
+      "en": {
+        "name": "Cuenca Botanical Garden",
+        "intro": "The garden presents plants of southern Ecuador through a walking circuit linking cultivated beds, traditional garden plants and orchids. Compare the arrangement of species in a working garden with the labelled ecosystem displays.",
+        "steps": [
+          "Start at the visitor entrance",
+          "follow the walkways between planting beds towards the orchid display when open",
+          "return by a path through a contrasting plant collection."
+        ],
+        "photo": "Use a path junction for a wider shot of the planted beds before moving close to a labelled specimen.",
+        "observe": "Read one plant label carefully and find a second plant with a different growing habit. Compare height, leaf shape and shading in the two beds; the route then becomes a study of habitats instead of a list of names."
+      },
+      "es": {
+        "name": "Jardín Botánico de Cuenca",
+        "intro": "El circuito peatonal presenta plantas del austro ecuatoriano, desde la huerta tradicional hasta las orquídeas. Compare la disposición de una huerta cultivada con las muestras de ecosistemas identificadas en los senderos.",
+        "steps": [
+          "Parta de la entrada de visitantes",
+          "siga las caminerías entre parterres hacia el orquideario si abre",
+          "vuelva por una colección de plantas diferente."
+        ],
+        "photo": "Use un cruce de senderos para mostrar los parterres antes de acercarse a un ejemplar con etiqueta.",
+        "observe": "Lea una etiqueta y busque otra planta con hábito distinto. Compare altura, forma de hoja y sombra en ambos parterres para convertir la ruta en una lectura de hábitats."
+      },
+      "zh": {
+        "name": "昆卡植物园",
+        "intro": "园内步道把厄瓜多尔南部的栽培植物、传统菜园与兰花展示连接起来。沿路比较菜园中的排列方式与生态展区的植物组合，就能看到生产用途和自然环境如何影响种植布局。",
+        "steps": [
+          "从游客入口进园",
+          "沿种植床之间的步道前往当日开放的兰花展示区",
+          "返程换一条经过不同植物群落的小径。"
+        ],
+        "photo": "在路口先拍种植床的整体布置，再近拍带有名称标签的植物。",
+        "observe": "读一块植物标签，再找另一种生长方式不同的植物。比较两处的高度、叶形和遮阴条件，路线就不只是记名称，而变成认识生境的观察。"
+      }
+    }
+  },
+  "madre": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=13",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=13",
+    "area": "El Ejido, Cuenca",
+    "query": "Parque de la Madre Cuenca, El Ejido, Cuenca, Ecuador",
+    "pin": null,
+    "category": "park",
+    "copy": {
+      "en": {
+        "name": "Parque de la Madre",
+        "intro": "In El Ejido, this park is closely associated with local athletics. The running track and open gathering areas give it a different rhythm from the formal plazas of the historic centre, especially during training sessions.",
+        "steps": [
+          "Approach from the El Ejido side",
+          "walk beside the running track without entering the active lanes",
+          "cross towards the open gathering area and return along the outer path."
+        ],
+        "photo": "Frame the curve of the track with the trees beyond from the spectator side.",
+        "observe": "Stand beside the bend rather than on the track. From there it is easy to see how a dedicated sporting space and the ordinary pedestrian paths can function at the same time in a busy urban park."
+      },
+      "es": {
+        "name": "Parque de la Madre",
+        "intro": "Este parque de El Ejido está ligado a la historia del atletismo local. La pista y las áreas de encuentro le dan un ritmo distinto al de las plazas del centro, especialmente durante los entrenamientos.",
+        "steps": [
+          "Entre desde El Ejido",
+          "camine junto a la pista sin ocupar los carriles en uso",
+          "cruce hacia el área de encuentro y vuelva por el sendero exterior."
+        ],
+        "photo": "Fotografíe la curva de la pista con los árboles al fondo desde el lado del público.",
+        "observe": "Deténgase junto a la curva, fuera de la pista. Desde allí se entiende cómo un espacio deportivo dedicado y las sendas peatonales funcionan al mismo tiempo."
+      },
+      "zh": {
+        "name": "母亲公园",
+        "intro": "公园位于埃尔埃希多区，与当地田径运动关系密切。跑道和开阔的聚会空间赋予它不同于老城广场的节奏，在运动员训练时尤其明显。",
+        "steps": [
+          "从埃尔埃希多一侧进入",
+          "沿跑道旁步行，避开正在使用的跑道",
+          "穿过公共聚会区，从外围步道返回。"
+        ],
+        "photo": "站在观众一侧，将跑道弧线与后面的树木放在同一画面。",
+        "observe": "停在跑道弯道外侧，能够同时看到运动者与普通行人各自的动线。这正是公园作为体育场地与日常休闲空间并存的特点。"
+      }
+    }
+  },
+  "paraiso": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=14",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=14",
+    "area": "Gapal, Cuenca",
+    "query": "Parque El Paraíso Cuenca, Gapal, Cuenca, Ecuador",
+    "pin": null,
+    "category": "park",
+    "copy": {
+      "en": {
+        "name": "El Paraíso Park",
+        "intro": "Mature trees, a recreational lagoon and paths for walkers and cyclists form the core of this park in Gapal. The shaded perimeter feels quite different from the open water and children's activity areas.",
+        "steps": [
+          "Begin at a public park entrance",
+          "follow the pedestrian path to the lagoon",
+          "return along the wooded perimeter while yielding at cycle crossings."
+        ],
+        "photo": "Stand back from the pond and use a tree trunk as a frame for the open water.",
+        "observe": "Follow the change in light from the wooded perimeter into the open lagoon. Listen for the difference between the activity areas and the quieter tree canopy, then choose the section that suits the pace of your group."
+      },
+      "es": {
+        "name": "Parque El Paraíso",
+        "intro": "En Gapal, árboles de gran porte, una laguna recreativa y caminos para peatones y ciclistas organizan el parque. El borde arbolado contrasta con la zona abierta del agua y los juegos infantiles.",
+        "steps": [
+          "Entre por un acceso público",
+          "siga la senda peatonal hasta la laguna",
+          "regrese por el borde arbolado prestando atención a los cruces de bicicletas."
+        ],
+        "photo": "Desde un punto retirado del estanque, use un tronco para enmarcar el agua abierta.",
+        "observe": "Observe el cambio de luz entre el borde arbolado y la laguna abierta. Compare el sonido de las áreas activas con el espacio bajo los árboles antes de escoger el tramo de regreso."
+      },
+      "zh": {
+        "name": "天堂公园",
+        "intro": "加帕尔区的公园以成荫大树、休闲湖与步行骑行路径为特色。沿外围树荫步道走一圈，再回到湖面和儿童活动区，可以体验两种完全不同的空间感。",
+        "steps": [
+          "从公共入口进入",
+          "循人行道到湖边",
+          "沿树木较密的外围步道返回，经过自行车交会处时留意来车。"
+        ],
+        "photo": "从距湖岸稍远的位置，用树干作侧框，保留开阔水面。",
+        "observe": "从林缘走向开阔湖面时，留意光线变化，再比较活动区和树冠下的声音。返程可以根据同行者的体力与喜好选择安静或热闹的一侧。"
+      }
+    }
+  },
+  "libertad": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=15",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=15",
+    "area": "Cuenca, Azuay",
+    "query": "Parque de la Libertad Cuenca, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "park",
+    "copy": {
+      "en": {
+        "name": "Parque de la Libertad",
+        "intro": "Cuenca transformed the grounds of a former men's prison into a public park. A multipurpose lookout building marks the new use: compare the open walking space with the idea of enclosure that defined the site's earlier life.",
+        "steps": [
+          "Start at the street entrance",
+          "cross the open grounds toward the lookout building",
+          "circle its accessible base before returning along the neighbourhood edge."
+        ],
+        "photo": "Step back across the lawn to fit the vertical lookout and the open ground into one view.",
+        "observe": "The lookout is a useful reference for reading the site from the surrounding streets. Walk from the edge to the open centre and watch how views expand, a physical contrast to the enclosure once associated with the property."
+      },
+      "es": {
+        "name": "Parque de la Libertad",
+        "intro": "Los predios de la antigua cárcel de varones se transformaron en parque público. El edificio mirador señala ese nuevo uso: la explanada abierta permite imaginar el contraste con el recinto cerrado que existió aquí.",
+        "steps": [
+          "Entre desde la calle",
+          "cruce el espacio abierto hacia el edificio mirador",
+          "rodee su base accesible y vuelva por el borde que conecta con el barrio."
+        ],
+        "photo": "Retroceda junto al césped para incluir la vertical del mirador y el suelo abierto.",
+        "observe": "El mirador orienta desde el barrio. Camine desde el borde al centro abierto y observe cómo se amplían las vistas, un contraste físico con el antiguo recinto carcelario."
+      },
+      "zh": {
+        "name": "自由公园",
+        "intro": "昆卡把原男子监狱的地块改造成了公共公园，多功能观景建筑标志着场所用途的变化。沿开放步行空间行走时，可以对照过去封闭围合的用途来理解这次城市再利用。",
+        "steps": [
+          "由临街入口起步",
+          "穿过开阔地向观景建筑前进",
+          "绕其开放的底部步行，再沿社区一侧的公园边缘返回。"
+        ],
+        "photo": "从草坪对面退后取景，把竖向观景建筑与开阔地面一并拍下。",
+        "observe": "观景建筑是从周边街道辨认公园的参照。从外缘往开阔中心行走，视野逐渐展开，正好与这块土地昔日的围合用途形成空间对照。"
+      }
+    }
+  },
+  "luz": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=16",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=16",
+    "area": "Cuenca, Azuay",
+    "query": "Megaparque de la Luz Cuenca, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "park",
+    "copy": {
+      "en": {
+        "name": "Megaparque de la Luz",
+        "intro": "An open upper platform meets woodland on the north slope. Along the southern edge, lookout points face the hills around Cuenca. Walk between them to see how each opening frames a different part of the skyline.",
+        "steps": [
+          "Reach the upper esplanade",
+          "follow its southern edge between the viewpoints",
+          "turn back at the last open platform or take a signed route toward the wooded side."
+        ],
+        "photo": "Stand on the designated deck and align its edge with the line of hills.",
+        "observe": "Pick the same distant peak at two different viewpoints. The peak stays fixed while the wooden platforms and nearer buildings shift, revealing how the park's southern edge was designed around several lines of sight."
+      },
+      "es": {
+        "name": "Megaparque de la Luz",
+        "intro": "La plataforma superior abierta se encuentra con el bosque de la ladera norte. Al sur, varios miradores se orientan hacia los cerros de Cuenca. Camine entre ellos para comparar qué parte del horizonte enmarca cada abertura.",
+        "steps": [
+          "Llegue a la explanada superior",
+          "siga el borde sur entre los miradores",
+          "regrese desde la última plataforma abierta o use un sendero señalizado hacia el bosque."
+        ],
+        "photo": "Desde la plataforma habilitada alinee el borde de la cubierta con la línea de cerros.",
+        "observe": "Elija el mismo cerro desde dos miradores. La cumbre permanece fija mientras cambian plataformas y edificios cercanos; así se entiende el trazado según varias visuales."
+      },
+      "zh": {
+        "name": "光之大型公园",
+        "intro": "上部开阔平台与北坡林地相接，南侧排列的多个观景位置面向环绕昆卡的山丘。沿平台逐一换位，比只停在一处更容易分辨每个开口框住的不同山体。",
+        "steps": [
+          "先到上方广场",
+          "沿南侧边缘依序走访观景点",
+          "在最后一个开放平台折返，或按现有标识走往靠林地的一侧。"
+        ],
+        "photo": "站在开放的观景台上，让平台边线指向远处山脊。",
+        "observe": "在两个观景台各找出同一座远山。山峰位置看似不动，近处平台和建筑却随视角变化，由此能读出南侧平台围绕不同视线安排的用意。"
+      }
+    }
+  },
+  "tarqui-guzho": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=17",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=17",
+    "area": "Cuenca, Azuay",
+    "query": "Megaparque Tarqui Guzho Cuenca, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "park",
+    "copy": {
+      "en": {
+        "name": "Tarqui-Guzho Park",
+        "intro": "Wet ground and river margins share space with play areas in this linear park. Its walking paths make it possible to compare active recreation with the vegetation retained along the water without entering the wetland itself.",
+        "steps": [
+          "Start in the public recreation area",
+          "follow the path toward the wetland edge",
+          "use a designated crossing to return along the other accessible path."
+        ],
+        "photo": "Look across the wetland from the path with the contrasting play structures outside the foreground.",
+        "observe": "At a path junction, compare a hard recreational surface with the softer wetland margin. The distinction is intentional: the designed paths let people cross the park while retaining water and vegetation alongside the river."
+      },
+      "es": {
+        "name": "Megaparque Tarqui-Guzho",
+        "intro": "Los humedales y márgenes del río conviven con áreas de juego. Las caminerías permiten comparar los espacios de recreación con la vegetación conservada junto al agua sin pisar el humedal.",
+        "steps": [
+          "Comience en la zona recreativa pública",
+          "siga la senda hasta el borde del humedal",
+          "use un cruce habilitado para volver por otro tramo accesible."
+        ],
+        "photo": "Mire a través del humedal desde la senda dejando los juegos fuera del primer plano.",
+        "observe": "En un cruce compare la superficie recreativa firme con el borde húmedo. Los recorridos construidos permiten atravesar el parque conservando agua y vegetación junto al río."
+      },
+      "zh": {
+        "name": "塔尔基古索公园",
+        "intro": "湿地、河岸和儿童游乐空间在这座公园里并存。沿人行步道就能比较人工休闲设施与水边保留的植被，无须进入潮湿的生境。",
+        "steps": [
+          "从公共活动区出发",
+          "沿步道走到湿地边缘",
+          "使用指定通道转往另一段开放步道，再返回起点。"
+        ],
+        "photo": "在步道上横拍湿地，让景物与游乐设施分层，避免踏进植被。",
+        "observe": "从步道交会处比较坚实的游乐地面和柔软湿地边缘。人工路径让人们能够穿行，同时为河边蓄水与植被留下空间。"
+      }
+    }
+  },
+  "yurak-allpa": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=18",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=18",
+    "area": "Tañiloma, Tarqui, Cuenca",
+    "query": "Zoológico Yurak Allpa Tarqui Tañiloma, Tañiloma, Tarqui, Cuenca, Ecuador",
+    "pin": null,
+    "category": "zoo",
+    "copy": {
+      "en": {
+        "name": "Yurak Allpa Zoo",
+        "intro": "On the Tarqui–Turi road at Tañiloma, this zoo offers a compact walking visit centred on its animal enclosures. Read the species panels before watching: a bird's perch and a mammal's sheltered area call for different viewing distances.",
+        "steps": [
+          "Check the day's open circuit at reception",
+          "follow the marked visitor path between enclosures",
+          "pause at one bird exhibit before returning to the entrance."
+        ],
+        "photo": "From behind the visitor rail, wait for a clear view without tapping glass or using flash.",
+        "observe": "Choose one enclosure and spend a little longer looking for how its occupant uses height, shade and shelter. A patient stop often reveals more behaviour than a rapid circuit trying to see every species at once."
+      },
+      "es": {
+        "name": "Zoológico Yurak Allpa",
+        "intro": "En el sector Tañiloma de la vía Tarqui–Turi, el zoológico se recorre a pie entre recintos. Lea primero las fichas: la percha de un ave y el refugio de un mamífero se observan desde distancias diferentes.",
+        "steps": [
+          "Consulte el circuito abierto en recepción",
+          "siga el sendero entre recintos",
+          "deténgase en una exhibición de aves antes de volver a la entrada."
+        ],
+        "photo": "Desde la barrera espere un ángulo libre sin golpear el vidrio ni usar flash.",
+        "observe": "Dedique tiempo a un recinto para ver cómo su ocupante usa altura, sombra y refugio. Una pausa permite observar más comportamiento que recorrer deprisa todas las exhibiciones."
+      },
+      "zh": {
+        "name": "尤拉克阿尔帕动物园",
+        "intro": "动物园位于塔尔基至图里道路沿线的塔尼洛马，可步行串联各个展示区。先读物种说明，再观察不同动物如何使用栖架与遮蔽处，比匆匆寻找动物露脸更有收获。",
+        "steps": [
+          "在接待处确认当天开放的参观路线",
+          "沿指示步道经过各展示区",
+          "在一处鸟类展示前停留观察，再回到入口。"
+        ],
+        "photo": "站在游客护栏后等候不受遮挡的角度，避免敲玻璃和使用闪光灯。",
+        "observe": "在一个展示区多停留一会，看动物怎样利用高处、阴影和躲藏空间。与匆匆看遍全部展区相比，这样更容易观察到行为细节。"
+      }
+    }
+  },
+  "amaru": {
+    "source": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=19",
+    "credit": "Fundación Municipal Turismo para Cuenca",
+    "attribution": "https://visitcuencaecuador.com.ec/wp-content/uploads/2024/07/Guia_Todos_Estan_En_Cuenca.pdf#page=19",
+    "area": "Cuenca, Azuay",
+    "query": "Amaru Bioparque Cuenca, Cuenca, Azuay, Ecuador",
+    "pin": null,
+    "category": "zoo",
+    "copy": {
+      "en": {
+        "name": "Amaru Biopark",
+        "intro": "Amaru combines animal exhibits with conservation education about Ecuador's biodiversity. Read the interpretation at each habitat before comparing species: the reason for different plants, shelters and perches is part of the story.",
+        "steps": [
+          "Ask at the entrance how much of the hillside circuit is open",
+          "follow the marked sequence between habitats",
+          "pause at an interpretation panel before planning the return to the exit."
+        ],
+        "photo": "At a viewing point, try a wider frame showing the habitat as well as the animal.",
+        "observe": "Compare two habitats that represent different environments. Read the conservation panel and look for the physical features mentioned there, such as cover or climbing space, before you look for the animal itself."
+      },
+      "es": {
+        "name": "Bioparque Amaru",
+        "intro": "Amaru combina exhibiciones de fauna con educación sobre la biodiversidad ecuatoriana. Lea las explicaciones de cada ambiente para comparar por qué cambian las plantas, los refugios y las perchas entre especies.",
+        "steps": [
+          "Pregunte en el acceso qué tramos del circuito de ladera están abiertos",
+          "siga el orden señalado entre ambientes",
+          "haga una pausa ante un panel antes de continuar a la salida."
+        ],
+        "photo": "Desde un punto de observación abra el encuadre para mostrar el ambiente además del animal.",
+        "observe": "Compare dos ambientes distintos. Lea el panel y busque primero en el recinto los rasgos mencionados, como cobertura o espacio para trepar, antes de localizar al animal."
+      },
+      "zh": {
+        "name": "阿马鲁生物公园",
+        "intro": "阿马鲁把动物展示与厄瓜多尔生物多样性教育结合在一起。先读不同生境的说明，再比较植物、隐蔽处与栖架的布置，就能理解展示设施与物种生活方式的关系。",
+        "steps": [
+          "在入口确认当天开放的山坡参观段",
+          "依现场标志按顺序参观生境",
+          "在解说牌前停下梳理观察，再前往出口。"
+        ],
+        "photo": "从规定观察点使用稍广的构图，拍下动物与环境之间的关系。",
+        "observe": "比较两个不同环境的展示区。读完说明后，先找牌上提到的遮蔽或攀爬条件，再寻找动物本身，让观察与保育解说联系起来。"
+      }
+    }
+  },
+  "catedral-nueva": {
+    "source": "https://es.wikipedia.org/wiki/Catedral_de_la_Inmaculada_Concepci%C3%B3n_(Cuenca)",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Cuenca_Ecuador_1106.jpg",
+    "area": "Parque Calderón, Cuenca",
+    "query": "Catedral de la Inmaculada Concepción Cuenca, Parque Calderón, Cuenca, Ecuador",
+    "pin": "-2.8975,-79.005",
+    "category": "church",
+    "copy": {
+      "en": {
+        "name": "New Cathedral of Cuenca",
+        "intro": "The blue domes of the Cathedral of the Immaculate Conception define the skyline beside Parque Calderón. The façade and domes are best read from different distances: the upper silhouette is less obvious when standing directly against the entrance.",
+        "steps": [
+          "Start across Parque Calderón",
+          "approach the cathedral façade and compare its scale with the neighbouring blocks",
+          "move to the side of the square to recover a view of the domes."
+        ],
+        "photo": "Use the far side of the park to include the domes without tilting the camera steeply.",
+        "observe": "At the corner of the park, compare the horizontal width of the façade with the rising curves of the domes behind it. Walking a short distance sideways changes which dome is visible above the front wall."
+      },
+      "es": {
+        "name": "Catedral Nueva de Cuenca",
+        "intro": "Las cúpulas azules de la Inmaculada Concepción dibujan el horizonte del Parque Calderón. Fachada y cúpulas se leen a distintas distancias: junto a la puerta se pierde parte de la silueta superior.",
+        "steps": [
+          "Empiece al otro lado del parque",
+          "acérquese a la fachada y compare su escala con las manzanas vecinas",
+          "vuelva al lateral de la plaza para recuperar la vista de las cúpulas."
+        ],
+        "photo": "Desde el extremo opuesto del parque entran las cúpulas sin inclinar demasiado la cámara.",
+        "observe": "Desde una esquina del parque compare el ancho de la fachada con las curvas de las cúpulas. Al desplazarse unos pasos cambian las cúpulas que asoman por encima del muro."
+      },
+      "zh": {
+        "name": "昆卡新主教座堂",
+        "intro": "无玷始胎主教座堂的蓝色穹顶构成卡尔德隆公园一带最醒目的天际线。立面与穹顶适合从不同距离观看，紧靠入口时反而不容易看全上方轮廓。",
+        "steps": [
+          "从公园对面开始",
+          "向教堂正面走近，比较建筑与周围街区的尺度",
+          "再移到广场侧边重新寻找穹顶视角。"
+        ],
+        "photo": "站在公园较远一端取景，可减少相机大幅仰拍造成的变形。",
+        "observe": "从公园一角比较正面横向宽度与后方穹顶曲线。横向稍移几步，露出前墙上方的穹顶便会改变，适合现场比较不同构图。"
+      }
+    }
+  },
+  "catedral-vieja": {
+    "source": "https://es.wikipedia.org/wiki/Catedral_vieja_de_Cuenca_(Ecuador)",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:OldCathedral.Cuenca.JPG",
+    "area": "Parque Calderón, Cuenca",
+    "query": "Museo Catedral Vieja Cuenca, Parque Calderón, Cuenca, Ecuador",
+    "pin": null,
+    "category": "museum",
+    "copy": {
+      "en": {
+        "name": "Old Cathedral of Cuenca",
+        "intro": "Across the square from the new cathedral stands El Sagrario, begun in the sixteenth century and now a museum of religious art. Its interior tells the story of Cuenca's early church through altars and devotional works rather than through the scale of a modern cathedral.",
+        "steps": [
+          "Start on the Parque Calderón side",
+          "locate the museum entrance and check the visit conditions",
+          "follow the interior circuit to the altars before looking back across the square."
+        ],
+        "photo": "Photograph the façade from the plaza and ask about photography before entering the galleries.",
+        "observe": "Look at an altar as a group of objects rather than a single decoration. Compare its position in the room with the way the building opens back onto the square and the much larger cathedral opposite."
+      },
+      "es": {
+        "name": "Catedral Vieja de Cuenca",
+        "intro": "Frente a la Catedral Nueva se levanta El Sagrario, iniciado en el siglo XVI y convertido en museo de arte religioso. Sus altares y piezas devocionales explican la iglesia temprana de Cuenca desde la escala de un templo histórico.",
+        "steps": [
+          "Empiece por el lado del Parque Calderón",
+          "localice el acceso al museo y consulte las condiciones",
+          "recorra los altares y vuelva a mirar la plaza al salir."
+        ],
+        "photo": "Fotografíe la fachada desde la plaza y consulte el permiso antes de tomar imágenes en las salas.",
+        "observe": "Observe un altar como conjunto de piezas. Compare su posición en la sala con la salida hacia la plaza y con la escala de la catedral mayor que se levanta enfrente."
+      },
+      "zh": {
+        "name": "昆卡旧主教座堂",
+        "intro": "广场对面的旧主教座堂又名圣体堂，始建于十六世纪，如今是宗教艺术博物馆。馆内的祭台与宗教艺术品帮助理解昆卡早期教会生活，参观重点与对面宏伟的新座堂不同。",
+        "steps": [
+          "从卡尔德隆公园一侧起步",
+          "找到博物馆入口，询问参观条件",
+          "依馆内动线观察祭台，出门后再回望广场。"
+        ],
+        "photo": "从广场上拍立面，进入展厅前先询问是否允许摄影。",
+        "observe": "把一座祭台作为一组物件来观察，而非单一装饰；出门时再比较馆内的尺度、广场的开口，以及对面体量更大的新座堂。"
+      }
+    }
+  },
+  "pumapungo": {
+    "source": "https://es.wikipedia.org/wiki/Museo_Pumapungo",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:TEATRO_PUMAPUNGO_%2832097417774%29.jpg",
+    "area": "Calle Larga, Cuenca",
+    "query": "Museo Pumapungo Cuenca, Calle Larga, Cuenca, Ecuador",
+    "pin": "-2.9060782,-78.9968199",
+    "category": "museum",
+    "copy": {
+      "en": {
+        "name": "Pumapungo Museum and Archaeological Park",
+        "intro": "A museum and archaeological landscape share the Pumapungo site at the eastern end of the riverside heritage walk. Indoor displays and outdoor remains operate at different scales, so leave time for the transition between the two areas.",
+        "steps": [
+          "Start at the museum reception",
+          "follow the open galleries before asking for the current park access",
+          "walk the marked archaeological route and return to the exit without cutting across remains."
+        ],
+        "photo": "Use a wider frame outdoors to relate the archaeological ground plan to the slope.",
+        "observe": "Indoors, objects are separated and labelled. Outdoors, relationships between structures are the principal evidence. Try following one foundation to its next corner before stepping back to consider the entire archaeological layout."
+      },
+      "es": {
+        "name": "Museo y Parque Arqueológico Pumapungo",
+        "intro": "El museo y el paisaje arqueológico comparten el sitio de Pumapungo al extremo oriental del paseo patrimonial del río. Las salas y los restos exteriores se observan a escalas distintas; reserve tiempo para pasar de unos a otros.",
+        "steps": [
+          "Empiece en la recepción",
+          "recorra las salas abiertas y consulte el acceso actual al parque",
+          "siga la ruta arqueológica señalizada y regrese sin cruzar los vestigios."
+        ],
+        "photo": "En el exterior abra el encuadre para relacionar la planta de las estructuras con la pendiente.",
+        "observe": "En las salas los objetos están separados y rotulados; al aire libre importan las relaciones entre estructuras. Siga un cimiento hasta una esquina y retroceda para entender el trazado general."
+      },
+      "zh": {
+        "name": "普马蓬戈博物馆与考古公园",
+        "intro": "这处博物馆和考古公园位于沿河文化步行线路东端。室内展览适合近看器物与说明，室外遗址则需拉开距离阅读地形，行程应给两者之间的转换留出时间。",
+        "steps": [
+          "先到博物馆接待处",
+          "参观开放展厅后询问当天进入遗址公园的方式",
+          "按指定考古步道参观，不横穿遗迹，最后回到出口。"
+        ],
+        "photo": "在室外采用较广的构图，把遗迹平面与后方坡地放在一起。",
+        "observe": "室内展品经过分类和标注，室外则要从结构间的关系获得线索。先跟着一段地基辨认转角，再退后看整体平面，更容易理解遗址布局。"
+      }
+    }
+  },
+  "todos-santos": {
+    "source": "https://es.wikipedia.org/wiki/Iglesia_de_Todos_Santos_(Cuenca)",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Todos_Santo_en_Cuenca.jpg",
+    "area": "Calle Larga y Vargas Machuca, Cuenca",
+    "query": "Iglesia de Todos Santos Cuenca, Calle Larga y Vargas Machuca, Cuenca, Ecuador",
+    "pin": "-2.9033302,-79.0017097",
+    "category": "church",
+    "copy": {
+      "en": {
+        "name": "Todos Santos Church",
+        "intro": "At the eastern end of Calle Larga, Todos Santos brings the church-lined upper town close to the Tomebamba river walk. Compare the view from the street entrance with the lower riverbank to understand why this corner anchors the Barranco route.",
+        "steps": [
+          "Begin at Calle Larga and Vargas Machuca",
+          "inspect the church frontage from the public side",
+          "descend by a public connection toward the river and look back uphill."
+        ],
+        "photo": "From the street corner step aside from the entrance so worshippers can pass while you frame the tower.",
+        "observe": "Follow the direction of Calle Larga past the church, then compare it with the route below along the water. The point of interest is the meeting of a neighbourhood landmark, the upper terrace and the public river walk."
+      },
+      "es": {
+        "name": "Iglesia de Todos Santos",
+        "intro": "En el tramo oriental de la Calle Larga, Todos Santos acerca la ciudad alta al paseo del Tomebamba. Compare la vista de la entrada con la ribera inferior para entender su papel en la ruta del Barranco.",
+        "steps": [
+          "Comience en Calle Larga y Vargas Machuca",
+          "observe la fachada desde el espacio público",
+          "baje por una conexión peatonal hacia el río y vuelva la vista ladera arriba."
+        ],
+        "photo": "Desde la esquina deje libre la entrada para los fieles mientras encuadra la torre.",
+        "observe": "Siga con la mirada la Calle Larga y compare su dirección con el paseo junto al agua. Aquí se encuentran un hito del barrio, la terraza alta y el recorrido público del río."
+      },
+      "zh": {
+        "name": "诸圣教堂",
+        "intro": "诸圣教堂位于长街东段，把昆卡高处街区与托梅班巴河岸游线联系起来。分别从入口街角和下方河岸回望，能看出这处建筑在崖街线路中的位置。",
+        "steps": [
+          "从长街与巴尔加斯马丘卡街交会处起步",
+          "在公共空间观察教堂立面",
+          "沿公共人行通道下到河边，再向坡上回望。"
+        ],
+        "photo": "在街角稍稍避开入口通道拍摄塔楼，让礼拜者能够正常进出。",
+        "observe": "沿长街方向看过教堂，再比较下方河边的行走方向。街区地标、老城台地与公共河岸步道在这里相遇，这是单拍一张立面不容易表达的特色。"
+      }
+    }
+  },
+  "culturas-aborigenes": {
+    "source": "https://es.wikipedia.org/wiki/Museo_de_las_Culturas_Abor%C3%ADgenes",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Museo_de_las_Culturas_Abor%C3%ADgenes_-_interior.jpg",
+    "area": "Calle Larga, Cuenca",
+    "query": "Museo de las Culturas Aborígenes Cuenca, Calle Larga, Cuenca, Ecuador",
+    "pin": "-2.9026539,-79.0023088",
+    "category": "museum",
+    "copy": {
+      "en": {
+        "name": "Museum of Aboriginal Cultures",
+        "intro": "A former inn for muleteers houses this archaeological collection. Read the cases in sequence to compare changing materials and techniques across periods, then look at the building itself as a reminder of how goods moved through the region.",
+        "steps": [
+          "Locate the museum entrance on Calle Larga",
+          "select two chronological displays and compare their objects",
+          "pause in the public circulation space to read the former inn before leaving."
+        ],
+        "photo": "If photography is permitted, angle the camera away from reflections and include the object label.",
+        "observe": "Compare the rim, base and decoration of two vessels before reading their dates. The labels can then confirm or challenge your impression of how technique and everyday use changed between periods."
+      },
+      "es": {
+        "name": "Museo de las Culturas Aborígenes",
+        "intro": "Una antigua posada de arrieros alberga la colección arqueológica. Recorra las vitrinas por periodos para comparar materiales y técnicas; después observe la propia casa como testimonio de las rutas de intercambio.",
+        "steps": [
+          "Localice la entrada en Calle Larga",
+          "elija dos conjuntos cronológicos y compare sus objetos",
+          "observe la antigua posada desde las áreas públicas antes de salir."
+        ],
+        "photo": "Si permiten fotos, evite los reflejos de la vitrina e incluya la identificación de la pieza.",
+        "observe": "Compare borde, base y decoración de dos vasijas antes de ver sus fechas. Las etiquetas ayudan a contrastar cómo cambiaron técnica y uso cotidiano entre periodos."
+      },
+      "zh": {
+        "name": "原住民文化博物馆",
+        "intro": "这批考古藏品位于一座昔日供赶骡人落脚的客栈内。沿展柜顺序比较不同时期的材料与工艺，再看看建筑本身，也能从另一面理解地区间的货运往来。",
+        "steps": [
+          "在长街找到博物馆入口",
+          "选择两个不同时期的陈列组比较器物",
+          "离馆前在公共区域观察旧客栈的空间格局。"
+        ],
+        "photo": "若允许摄影，避开展柜反光，并把文物标签一并拍下。",
+        "observe": "先比较两件器物的口沿、底部和装饰，再看年代标签。通过这种顺序，可以用实物检验自己对不同时期制作技法和日常用途的判断。"
+      }
+    }
+  },
+  "san-alfonso": {
+    "source": "https://es.wikipedia.org/wiki/Iglesia_de_San_Alfonso_(Cuenca)",
+    "credit": "Wikimedia Commons",
+    "attribution": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Alfonso_Cuenca_Ecuador.jpeg",
+    "area": "Simón Bolívar y Presidente Borrero, Cuenca",
+    "query": "Iglesia de San Alfonso Cuenca, Simón Bolívar y Presidente Borrero, Cuenca, Ecuador",
+    "pin": "-2.89694444,-79.0025",
+    "category": "church",
+    "copy": {
+      "en": {
+        "name": "San Alfonso Church",
+        "intro": "The twin towers of the Basilica of Our Lady of Perpetual Help rise above its small forecourt. The design by Redemptorist brother Juan Bautista Stiehle is easiest to read from the opposite pavement, where both towers fit above the bays of the façade.",
+        "steps": [
+          "Start at Simón Bolívar and Presidente Borrero",
+          "compare the towers from across the street",
+          "approach the small forecourt and observe the pointed forms before entering if permitted."
+        ],
+        "photo": "From the opposite pavement align the centre of the façade between the towers without stepping into traffic.",
+        "observe": "Start at the roofline and follow one tower down to the street. Horizontal cornices interrupt the upward lines and divide the façade into levels, details that are harder to distinguish when looking straight up from the entrance."
+      },
+      "es": {
+        "name": "Iglesia de San Alfonso",
+        "intro": "Las torres gemelas de la Basílica de Nuestra Señora del Perpetuo Socorro se levantan sobre un pequeño atrio. El diseño del hermano redentorista Juan Bautista Stiehle se aprecia desde la acera de enfrente, donde caben ambas torres y los cuerpos de la fachada.",
+        "steps": [
+          "Comience en Simón Bolívar y Presidente Borrero",
+          "compare las torres desde la acera opuesta",
+          "acérquese al atrio y observe los arcos apuntados antes de entrar si está permitido."
+        ],
+        "photo": "Desde la acera opuesta centre la fachada entre ambas torres sin bajar a la calzada.",
+        "observe": "Siga una torre desde el remate hasta la calle. Las cornisas horizontales cortan las líneas ascendentes y dividen la fachada en niveles que apenas se distinguen mirando desde la puerta."
+      },
+      "zh": {
+        "name": "圣阿方索教堂",
+        "intro": "永援圣母大殿的双塔立在小前庭上方，由赎世会修士胡安·包蒂斯塔·施蒂勒设计。在对面的人行道上，能同时看到双塔、立面分区以及尖拱的相互关系。",
+        "steps": [
+          "从西蒙·玻利瓦尔街与总统博雷罗街口开始",
+          "在对面人行道比较双塔",
+          "再走入小前庭观察尖拱，视礼拜安排入内。"
+        ],
+        "photo": "在对面人行道调整到立面居中的角度，切勿为了取景走进车道。",
+        "observe": "从塔顶一路向下观察，水平檐线切断向上延伸的直线，把立面分为若干层次。在入口处仰头往往不容易辨认这些细节。"
+      }
+    }
+  }
+}
