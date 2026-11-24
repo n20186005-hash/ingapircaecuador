@@ -6,13 +6,11 @@ import { access, labels, languageNames, supported, trips } from '@/i18n/visit-pl
 
 type Params = { params: Promise<{locale: string; slug: string}> };
 const domain = 'https://www.ingapircaecuador.com';
-export const dynamicParams = false;
-export function generateStaticParams() { return Object.keys(places).map(slug => ({slug})); }
 function lookup(slug: string) {
   if (!Object.hasOwn(places, slug)) notFound();
   return places[slug as keyof typeof places];
 }
-export async function generateMetadata({params}: Params) {
+export async function placeMetadata({params}: Params) {
   const {locale,slug} = await params;
   if (!supported(locale)) notFound();
   const p = lookup(slug).copy[locale];
